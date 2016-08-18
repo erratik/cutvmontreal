@@ -1,0 +1,8 @@
+/assets/
+/backups
+/dev/
+/cutv.iml
+/assets/plugins/
+/.idea/
+/.idea/*git rm --cached .
+/site/wp-content/uploads/

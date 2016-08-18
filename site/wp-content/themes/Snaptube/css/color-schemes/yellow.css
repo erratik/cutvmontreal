@@ -1,0 +1,377 @@
+/* yellow color scheme */
+
+.yellow-color-scheme .wpb_carousel .wpb_thumbnails-fluid li a.link_image:hover,
+.yellow-color-scheme .wpb_teaser_grid ul .isotope-item a.link_image:hover,
+.yellow-color-scheme .mobera-fastflickrwidget.widget a:hover,
+.yellow-color-scheme .featured_apps_container .app-content-overlay {
+	background-color: rgba(251, 184, 41, 0.7);
+}
+
+.yellow-color-scheme #buddypress a.bp-primary-action span,
+.yellow-color-scheme #buddypress div.item-list-tabs ul li a span,
+.yellow-color-scheme .wrapper .flex-control-paging li a,
+.yellow-color-scheme .wrapper .theme-default .nivo-controlNav a {
+	background-color: rgba(251, 184, 41,0.5);
+}
+
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item > a::after,
+.yellow-color-scheme #buddypress a.bp-primary-action:hover span,
+.yellow-color-scheme #buddypress div.item-list-tabs ul li a:hover span,
+.yellow-color-scheme #buddypress div.item-list-tabs ul li.selected a span,
+.yellow-color-scheme #buddypress div.item-list-tabs ul li.current a span,
+.yellow-color-scheme #buddypress input[type=submit],
+.yellow-color-scheme .widget #bp-login-widget-form input[type=submit],
+.yellow-color-scheme #buddypress input[type=button],
+.yellow-color-scheme .pageload-overlay::after,
+.yellow-color-scheme .sidr .current-menu-item a,
+.yellow-color-scheme .sidr ul li:hover>a,
+.yellow-color-scheme .sidr ul li:hover>span,
+.yellow-color-scheme .sidr ul li.active>a,
+.yellow-color-scheme .sidr ul li.active>span,
+.yellow-color-scheme .sidr ul li.sidr-class-active>a,
+.yellow-color-scheme .sidr ul li.sidr-class-active>span,
+.yellow-color-scheme .sidr ul li ul li:hover>a,
+.yellow-color-scheme .sidr ul li ul li:hover>span,
+.yellow-color-scheme .sidr ul li ul li.active>a,
+.yellow-color-scheme .sidr ul li ul li.active>span,
+.yellow-color-scheme .sidr ul li ul li.sidr-class-active>a,
+.yellow-color-scheme .sidr ul li ul li.sidr-class-active>span,
+.yellow-color-scheme .mobera-contactform.widget .submitButton input[type=submit]:hover,
+.yellow-color-scheme .mobera-contactform.widget .submitButton input[type=submit],
+html .yellow-color-scheme .main-inner a.store_button,
+.yellow-color-scheme .ac-device nav span:hover,
+.yellow-color-scheme .wpcf7 .wpcf7-submit,
+.yellow-color-scheme .wpcf7 .wpcf7-submit:hover,
+.yellow-color-scheme .mp-menu .nav li.current-menu-ancestor > a,
+.yellow-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.yellow-color-scheme .mp-menu .nav li.current-menu-item > a,
+.yellow-color-scheme .mp-menu .nav li.current_page_item > a,
+.yellow-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.yellow-color-scheme .mp-menu .nav li.dropdown:hover > a,
+.yellow-color-scheme .mp-menu .current-menu-item a,
+.yellow-color-scheme .mp-menu ul li a:hover,
+.yellow-color-scheme .mp-level > ul > li:first-child > a:hover,
+body.yellow-color-scheme .wpb_image_grid .wpb_image_grid_ul .isotope-item:hover,
+.yellow-color-scheme .menu-container .sb-icon-search,
+.yellow-color-scheme .main-body-color,
+.yellow-color-scheme .page-wrapper .categories_filter li:hover a,
+.yellow-color-scheme .page-wrapper .categories_filter li.active a,
+body.yellow-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.yellow-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.yellow-color-scheme .featured_apps_container .ui-tabs-active a,
+.yellow-color-scheme .featured_apps_container ul li a:hover,
+body.yellow-color-scheme .theme-default .nivo-controlNav a:hover,
+body.yellow-color-scheme .flex-control-paging li a:hover,
+body.yellow-color-scheme .flex-control-paging li a.flex-active,
+.yellow-color-scheme .comment_seperator,
+.yellow-color-scheme .footer_menu_sep,
+.yellow-color-scheme .pushy a:hover,
+.yellow-color-scheme .video_carousel_button:hover,
+.yellow-color-scheme .open_video_likes span,
+.yellow-color-scheme .comment-form .form-submit input,
+.yellow-color-scheme .widget #videos-search #videosearchform #videosearchsubmit,
+.yellow-color-scheme .sb-search-submit,
+.yellow-color-scheme .btn-primary,
+.yellow-color-scheme .wrapper .flex-control-paging li a:hover,
+.yellow-color-scheme .theme-default .nivo-controlNav a:hover,
+.yellow-color-scheme .header-social-icons .user-icon,
+.yellow-color-scheme .wrapper .wpb_button.wpb_btn-primary,
+.yellow-color-scheme .top-header .menu-btn,
+.yellow-color-scheme .wrapper .video-module-title .unfollow-category,
+.yellow-color-scheme .wrapper .video-carousel-title .unfollow-category,
+body.yellow-color-scheme .wrapper .more_title .unfollow-category,
+.yellow-color-scheme .video_image_container .new-video,
+.yellow-color-scheme .followed_title,
+.yellow-color-scheme .header-social-icons .logout-icon,
+.yellow-color-scheme .wrapper .vc_tta-container .vc_tta-tabs-container .vc_tta-tab.vc_active a {
+	background-color: #FBB829;
+}
+
+.yellow-color-scheme .open_video_likes_count {
+	background: rgba(251,184,41,0.7);
+}
+
+.yellow-color-scheme .open_video_likes_count:before {
+	border-right-color: #fbcc67;
+}
+
+.yellow-color-scheme .header-social-icons.login_icons {
+	border-right: 1px solid #FBB829;
+}
+
+.yellow-color-scheme .tagcloud .tag_cloud_post_tag a:hover {
+	background-color: #FBB829 !important;
+}
+
+.yellow-color-scheme #buddypress input[type=submit]:hover,
+.yellow-color-scheme .widget #bp-login-widget-form input[type=submit]:hover,
+.yellow-color-scheme #buddypress input[type=button]:hover,
+.yellow-color-scheme .open_video_likes span:hover,
+.yellow-color-scheme .comment-form .form-submit input:hover,
+.yellow-color-scheme .widget #videos-search #videosearchform #videosearchsubmit:hover,
+.yellow-color-scheme .sb-search-submit:hover,
+.yellow-color-scheme .btn-primary:hover,
+.yellow-color-scheme .dotstyle-dotmove li:last-child::after,
+.yellow-color-scheme .wrapper .flex-control-paging li a.flex-active,
+.yellow-color-scheme .wrapper .theme-default .nivo-controlNav a.active,
+.yellow-color-scheme .header-social-icons .user-icon:hover,
+.yellow-color-scheme .dotstyle-dotmove li a:hover,
+.yellow-color-scheme .wrapper .wpb_button.wpb_btn-primary:hover,
+.yellow-color-scheme .header-social-icons .logout-icon:hover,
+body.yellow-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.yellow-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	background-color: #FFCC00;
+}
+
+body.yellow-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.yellow-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	border-color: #FFCC00;
+}
+
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item > a::after,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.before-css:hover:before,
+.yellow-color-scheme #buddypress ul.item-list h5 a:hover,
+.yellow-color-scheme #buddypress .acomment-options a:hover,
+.yellow-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li.current a,
+.yellow-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li a:hover,
+.yellow-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.yellow-color-scheme #buddypress div.item-list-tabs ul li a:hover,
+.yellow-color-scheme .wrapper #buddypress div.item-list-tabs ul li.selected a,
+.yellow-color-scheme .wrapper #buddypress div.item-list-tabs ul li.current a,
+body.yellow-color-scheme .wrapper .page-title h1 a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover > a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover:before,
+.yellow-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item::before,
+.yellow-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-ancestor::before,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor > a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover a,
+.yellow-color-scheme .wrapper .video-module-title .follow-category:hover,
+.yellow-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.yellow-color-scheme .wrapper .more_title .follow-category:hover,
+.yellow-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.yellow-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.yellow-color-scheme .wrapper .more_title .follow-category-register:hover,
+.yellow-color-scheme .wrapper .vc_tta-container .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title a {
+	color: #FBB829;
+}
+
+.yellow-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item a,
+.yellow-color-scheme .wrapper .sidebar_menu .primary-menu li.menu-item.current-menu-ancestor > a {
+	border-right: 4px solid #FBB829;
+}
+
+/*.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li.menu-item:hover a,
+.yellow-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,*/
+.yellow-color-scheme .wrapper blockquote p {
+	color: #FBB829 !important;
+}
+
+.yellow-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .featured_outline {
+	outline: 3px solid #FBB829;
+}
+
+.yellow-color-scheme .open_video_share .embed_text,
+.yellow-color-scheme .video-socialshare-container h4,
+.yellow-color-scheme .content-form.white-form .comment-reply-title,
+.yellow-color-scheme .ac-device nav,
+.yellow-color-scheme .ac-device nav span:first-child,
+.yellow-color-scheme .wpcf7 textarea:active,
+.yellow-color-scheme .featured_apps_container ul li,
+body.yellow-color-scheme .flex-control-paging li a,
+body.yellow-color-scheme .theme-default .nivo-controlNav a,
+.yellow-color-scheme .page-wrapper .sidebar-right ul li:before,
+.yellow-color-scheme .page-wrapper .main-inner ul li:before,
+body.yellow-color-scheme .wpb_content_element .wpb_accordion_wrapper .ui-accordion-header-active,
+body.yellow-color-scheme .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content,
+.yellow-color-scheme .page-wrapper .categories_filter,
+.yellow-color-scheme .wpb_content_element .wpb_tabs_nav,
+.yellow-color-scheme .featured_apps_container ul,
+.yellow-color-scheme .page-wrapper .categories_filter li,
+body.yellow-color-scheme .wpb_content_element .wpb_tabs_nav li,
+.yellow-color-scheme .mp-back:hover,
+.yellow-color-scheme .category_sort_container .sort_param.clicked,
+.yellow-color-scheme .wrapper .category_layout_container .layout.clicked,
+.yellow-color-scheme .category_sort_container .sort_param:hover,
+.yellow-color-scheme .category_layout_container .layout:hover,
+.yellow-color-scheme .video_thumb_link:hover .video_thumb_more,
+.yellow-color-scheme .wrapper .video-module-title .follow-category:hover,
+.yellow-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.yellow-color-scheme .wrapper .more_title .follow-category:hover,
+.yellow-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.yellow-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.yellow-color-scheme .wrapper .more_title .follow-category-register:hover,
+.yellow-color-scheme .header-social-icons.logout_icons {
+	border-color: #FBB829 !important;
+}
+
+.yellow-color-scheme .sidr .current-menu-item a,
+.yellow-color-scheme .page-wrapper .bg-style-2 h1,
+.yellow-color-scheme .page-wrapper .bg-style-3 h1,
+.yellow-color-scheme .page-wrapper .bg-style-4 h1,
+.yellow-color-scheme .page-wrapper .bg-style-5 h1,
+.yellow-color-scheme .page-wrapper .bg-style-6 h1,
+.yellow-color-scheme .page-wrapper .categories_filter li:hover a,
+.yellow-color-scheme .page-wrapper .categories_filter li.active a,
+body.yellow-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.yellow-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.yellow-color-scheme .featured_apps_container .ui-tabs-active a,
+.yellow-color-scheme .featured_apps_container ul li a:hover {
+	color: #fff;
+}
+
+.yellow-color-scheme #buddypress a.button,
+.yellow-color-scheme #buddypress div.generic-button a,
+.yellow-color-scheme .sf-menu > .current-menu-item > a,
+.yellow-color-scheme .sf-menu > .current-page-ancestor > a,
+.yellow-color-scheme .sf-menu > .current-menu-ancestor > a,
+.yellow-color-scheme .sf-menu > .current-page-parent > a,
+.yellow-color-scheme .sf-menu > .current_page_ancestor > a,
+.yellow-color-scheme .sf-menu > li > .sub-menu,
+.yellow-color-scheme .sf-menu > li:hover > a,
+.yellow-color-scheme .sf-menu > li.sfHover > a,
+.yellow-color-scheme .sf-menu a:hover,
+.yellow-color-scheme .sf-menu .current-menu-item a,
+.yellow-color-scheme .sf-menu .current-page-ancestor > .sub-menu .current-menu-parent > a,
+.yellow-color-scheme .sf-menu .current-menu-ancestor > .sub-menu .current-menu-parent > a,
+.yellow-color-scheme .sf-menu .current-page-parent > .sub-menu .current-menu-parent > a,
+.yellow-color-scheme .sf-menu .current_page_ancestor > .sub-menu .current-menu-parent > a,
+.yellow-color-scheme .textwidget a::before,
+.yellow-color-scheme .widget li a:hover,
+.yellow-color-scheme .page-wrapper .widget h4,
+.yellow-color-scheme .wrapper .sidebar-inner .item-title-bg h4,
+.yellow-color-scheme .mobera-recentpostsplus.widget h3 a:hover,
+.yellow-color-scheme .ac-device nav span,
+.yellow-color-scheme .ac-device .ac-title,
+.yellow-color-scheme .page-wrapper h1,
+.yellow-color-scheme .social-container .social-icons div a,
+.yellow-color-scheme .staff-member .social-icons div a,
+.yellow-color-scheme .content .entry-title,
+.yellow-color-scheme .teaser_grid_container .post-title,
+.yellow-color-scheme .page-wrapper .categories_filter li a,
+body.yellow-color-scheme .wpb_content_element .wpb_accordion_header a,
+.yellow-color-scheme .featured_apps_container ul li a,
+.yellow-color-scheme .page-wrapper h3,
+.yellow-color-scheme .page-wrapper > .page-title h1,
+.yellow-color-scheme .cocoa-color-scheme a,
+.yellow-color-scheme .cocoa-color-scheme .dropcap,
+.yellow-color-scheme .wrapper .page-title h1,
+.yellow-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .slide_video_info .video_name,
+.yellow-color-scheme ul.video_module li .video_container:hover .vid_info > span a,
+.yellow-color-scheme .footer-wrapper .footer-container .bottom-menu-container .footer-menu li:hover a,
+.yellow-color-scheme .wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active a,
+.yellow-color-scheme .wrapper .sidebar-inner .widget-title,
+.yellow-color-scheme .wrapper h3.widget-title a,
+.yellow-color-scheme .widget #calendar_wrap #today,
+.yellow-color-scheme .wrapper .nav-single a:hover:before,
+.yellow-color-scheme .wrapper .more_title,
+.yellow-color-scheme .video-block-container.open-video .video-block:hover .vid_info a,
+.yellow-color-scheme .video-block-container.video-home li:hover .vid_info a span,
+.yellow-color-scheme .footer-container .scroll-to-top:hover:before,
+.yellow-color-scheme .open_video_likes span.liked,
+.yellow-color-scheme .video-cat-thumb .vc_separator .open_video_more,
+.yellow-color-scheme .open_video_share .embed_text,
+.yellow-color-scheme .category_sort_container .sort_param.clicked,
+.yellow-color-scheme .wrapper .category_layout_container .layout.clicked,
+.yellow-color-scheme .category_sort_container .sort_param:hover,
+.yellow-color-scheme .category_layout_container .layout:hover,
+.yellow-color-scheme .category_layout_container .layout:hover:before,
+.yellow-color-scheme .suggested-video-container .suggested-text,
+.yellow-color-scheme.single-videogallery #comments #comments-title,
+.yellow-color-scheme #comments h6#comments-title,
+.yellow-color-scheme #author-link a,
+.yellow-color-scheme .video-module-title,
+.yellow-color-scheme .video-carousel-title,
+.yellow-color-scheme .wrapper .video_header,
+.yellow-color-scheme .wrapper .wpb_thumbnails .isotope-item span a,
+.yellow-color-scheme .wrapper .video_player .video_thumb_link:hover,
+.yellow-color-scheme .wrapper .video_player .video_thumb_link:hover .video_thumb_more,
+.yellow-color-scheme .more-author-videos .vid_info .videoHname:hover,
+.yellow-color-scheme .suggested-video-container .vid_info .videoHname:hover,
+.yellow-color-scheme .wpb_thumbnails .isotope-item .post-date .blog-postedby-info a:hover,
+.yellow-color-scheme .wrapper .wpb_thumbnails .isotope-item .post-title a:hover,
+.yellow-color-scheme .wrapper .title-video-count a:hover,
+.yellow-color-scheme #buddypress #activity-filter-select label,
+.yellow-color-scheme #buddypress #members-order-select label,
+.yellow-color-scheme #buddypress #groups-order-select label,
+.yellow-color-scheme #buddypress a.activity-time-since:hover span,
+.yellow-color-scheme #buddypress .activity .activity-header a:hover,
+.yellow-color-scheme .wrapper #buddypress ul.item-list li a.button,
+.yellow-color-scheme .wrapper #buddypress a.button,
+.yellow-color-scheme #buddypress .activity-list .activity-content .activity-inner a,
+.yellow-color-scheme #buddypress div.activity-comments div.acomment-meta a:hover,
+.yellow-color-scheme #buddypress .acomment-options a,
+.yellow-color-scheme .reply-edit-container a.comment-edit-link,
+.yellow-color-scheme #buddypress div#item-header div#item-meta #latest-update a,
+.yellow-color-scheme .submit_video_container .video_category,
+.yellow-color-scheme .wrapper .vc_gitem-col .blog-read-more a {
+	color: #FBB829;
+}
+
+.yellow-color-scheme .top-header .header_search:hover {
+	box-shadow: 3px 4px 6px rgba(251, 184, 41, 0.4);
+}
+
+.yellow-color-scheme .video_player.vid_thumbnail .video_module li .video_container:hover .video_image_container,
+.yellow-color-scheme .wpb_thumbnails .isotope-item .post-thumb .post-thumb-img-wrapper:hover,
+.yellow-color-scheme .wrapper .vc_gitem-col .post-thumb-img-wrapper:hover,
+.yellow-color-scheme ul.video_module li .video_container:hover .imgSidethumb,
+.yellow-color-scheme .video-block-container.open-video .video-block:hover .video-thumbimg,
+.yellow-color-scheme .video-block-container.video-home li:hover .video-thumbimg {
+	box-shadow: 0px 0px 0px 6px rgba(251, 184, 41, 1);
+}
+
+.yellow-color-scheme .footer-container.default .bottom-menu-container .footer-menu li.current-menu-item,
+.yellow-color-scheme .avatar_box {
+	border-top: 4px solid #FBB829;
+}
+
+.yellow-color-scheme.single-videogallery #author-info .avatar_box {
+	border: none;
+}
+
+.yellow-color-scheme .wrapper blockquote,
+.yellow-color-scheme #gallery_banner_list ul li.ui-tabs-selected {
+	border-left: 4px solid #FBB829;
+}
+
+.yellow-color-scheme .video-more a:hover,
+.yellow-color-scheme .wrapper .nav-single a:hover,
+.yellow-color-scheme .wrapper .video-more-category:hover {
+	border-color: #FBB829;
+	color: #FBB829 !important;
+}
+
+.yellow-color-scheme #buddypress ul.item-list h5 a {
+	color: rgba(251, 184, 41, 0.5);
+}
+
+.yellow-color-scheme .reply-edit-container a.comment-edit-link,
+.yellow-color-scheme a.comment-reply-link {
+	color: rgba(251, 184, 41, 0.5);
+}
+
+.yellow-color-scheme #buddypress ul.item-list h5 a:hover,
+.yellow-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.yellow-color-scheme .wrapper a.comment-reply-link:hover,
+.yellow-color-scheme .wrapper a.comment-edit-link:hover,
+.yellow-color-scheme #author-link a:hover {
+	color: rgba(251, 184, 41, 1) !important;
+}
+
+.yellow-color-scheme .wrapper .page-numbers:hover,
+.yellow-color-scheme .wrapper .page-numbers.current,
+.yellow-color-scheme .more_title a:not(.video-category-count):not(.unfollow-category):hover,
+.yellow-color-scheme .vh-pages-wrapper span.current,
+.yellow-color-scheme .wrapper .vh-pages-wrapper a:hover,
+.yellow-color-scheme #comment-nav-above .nav-previous a:hover,
+.yellow-color-scheme #comment-nav-below .nav-previous a:hover,
+.yellow-color-scheme #comment-nav-below .nav-next a:hover {
+	border: 1px solid #FBB829;
+	color: #FBB829 !important;
+}

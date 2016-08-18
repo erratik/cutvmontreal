@@ -1,0 +1,378 @@
+/* gray color scheme */
+
+.gray-color-scheme .wpb_carousel .wpb_thumbnails-fluid li a.link_image:hover,
+.gray-color-scheme .wpb_teaser_grid ul .isotope-item a.link_image:hover,
+.gray-color-scheme .mobera-fastflickrwidget.widget a:hover,
+.gray-color-scheme .featured_apps_container .app-content-overlay {
+	background-color: rgba(148, 140, 117, 0.7);
+}
+
+.gray-color-scheme #buddypress a.bp-primary-action span,
+.gray-color-scheme #buddypress div.item-list-tabs ul li a span,
+.gray-color-scheme .wrapper .flex-control-paging li a,
+.gray-color-scheme .wrapper .theme-default .nivo-controlNav a {
+	background-color: rgba(148, 140, 117,0.5);
+}
+
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item > a::after,
+.gray-color-scheme #buddypress a.bp-primary-action:hover span,
+.gray-color-scheme #buddypress div.item-list-tabs ul li a:hover span,
+.gray-color-scheme #buddypress div.item-list-tabs ul li.selected a span,
+.gray-color-scheme #buddypress div.item-list-tabs ul li.current a span,
+.gray-color-scheme #buddypress input[type=submit],
+.gray-color-scheme .widget #bp-login-widget-form input[type=submit],
+.gray-color-scheme #buddypress input[type=button],
+.gray-color-scheme .pageload-overlay::after,
+.gray-color-scheme .sidr .current-menu-item a,
+.gray-color-scheme .sidr ul li:hover>a,
+.gray-color-scheme .sidr ul li:hover>span,
+.gray-color-scheme .sidr ul li.active>a,
+.gray-color-scheme .sidr ul li.active>span,
+.gray-color-scheme .sidr ul li.sidr-class-active>a,
+.gray-color-scheme .sidr ul li.sidr-class-active>span,
+.gray-color-scheme .sidr ul li ul li:hover>a,
+.gray-color-scheme .sidr ul li ul li:hover>span,
+.gray-color-scheme .sidr ul li ul li.active>a,
+.gray-color-scheme .sidr ul li ul li.active>span,
+.gray-color-scheme .sidr ul li ul li.sidr-class-active>a,
+.gray-color-scheme .sidr ul li ul li.sidr-class-active>span,
+.gray-color-scheme .mobera-contactform.widget .submitButton input[type=submit]:hover,
+.gray-color-scheme .mobera-contactform.widget .submitButton input[type=submit],
+html .gray-color-scheme .main-inner a.store_button,
+.gray-color-scheme .ac-device nav span:hover,
+.gray-color-scheme .wpcf7 .wpcf7-submit,
+.gray-color-scheme .wpcf7 .wpcf7-submit:hover,
+.gray-color-scheme .mp-menu .nav li.current-menu-ancestor > a,
+.gray-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.gray-color-scheme .mp-menu .nav li.current-menu-item > a,
+.gray-color-scheme .mp-menu .nav li.current_page_item > a,
+.gray-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.gray-color-scheme .mp-menu .nav li.dropdown:hover > a,
+.gray-color-scheme .mp-menu .current-menu-item a,
+.gray-color-scheme .mp-menu ul li a:hover,
+.gray-color-scheme .mp-level > ul > li:first-child > a:hover,
+body.gray-color-scheme .wpb_image_grid .wpb_image_grid_ul .isotope-item:hover,
+.gray-color-scheme .menu-container .sb-icon-search,
+.gray-color-scheme .main-body-color,
+.gray-color-scheme .page-wrapper .categories_filter li:hover a,
+.gray-color-scheme .page-wrapper .categories_filter li.active a,
+body.gray-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.gray-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.gray-color-scheme .featured_apps_container .ui-tabs-active a,
+.gray-color-scheme .featured_apps_container ul li a:hover,
+body.gray-color-scheme .theme-default .nivo-controlNav a:hover,
+body.gray-color-scheme .flex-control-paging li a:hover,
+body.gray-color-scheme .flex-control-paging li a.flex-active,
+.gray-color-scheme .comment_seperator,
+.gray-color-scheme .footer_menu_sep,
+.gray-color-scheme .pushy a:hover,
+.gray-color-scheme .video_carousel_button:hover,
+.gray-color-scheme .open_video_likes span,
+.gray-color-scheme .comment-form .form-submit input,
+.gray-color-scheme .widget #videos-search #videosearchform #videosearchsubmit,
+.gray-color-scheme .sb-search-submit,
+.gray-color-scheme .btn-primary,
+.gray-color-scheme .wrapper .flex-control-paging li a:hover,
+.gray-color-scheme .theme-default .nivo-controlNav a:hover,
+.gray-color-scheme .header-social-icons .user-icon,
+.gray-color-scheme .wrapper .wpb_button.wpb_btn-primary,
+.gray-color-scheme .top-header .menu-btn,
+.gray-color-scheme .wrapper .video-module-title .unfollow-category,
+.gray-color-scheme .wrapper .video-carousel-title .unfollow-category,
+body.gray-color-scheme .wrapper .more_title .unfollow-category,
+.gray-color-scheme .video_image_container .new-video,
+.gray-color-scheme .followed_title,
+.gray-color-scheme .header-social-icons .logout-icon,
+.gray-color-scheme .wrapper .vc_tta-container .vc_tta-tabs-container .vc_tta-tab.vc_active a {
+	background-color: #948C75;
+}
+
+.gray-color-scheme .open_video_likes_count {
+	background: rgba(170,159,129,0.7);
+}
+
+.gray-color-scheme .open_video_likes_count:before {
+	border-right-color: #c2baa5;
+}
+
+.gray-color-scheme .header-social-icons.login_icons {
+	border-right: 1px solid #948C75;
+}
+
+.gray-color-scheme .tagcloud .tag_cloud_post_tag a:hover {
+	background-color: #948C75 !important;
+}
+
+.gray-color-scheme #buddypress input[type=submit]:hover,
+.gray-color-scheme .widget #bp-login-widget-form input[type=submit]:hover,
+.gray-color-scheme #buddypress input[type=button]:hover,
+.gray-color-scheme .open_video_likes span:hover,
+.gray-color-scheme .comment-form .form-submit input:hover,
+.gray-color-scheme .widget #videos-search #videosearchform #videosearchsubmit:hover,
+.gray-color-scheme .sb-search-submit:hover,
+.gray-color-scheme .btn-primary:hover,
+.gray-color-scheme .dotstyle-dotmove li:last-child::after,
+.gray-color-scheme .wrapper .flex-control-paging li a.flex-active,
+.gray-color-scheme .wrapper .theme-default .nivo-controlNav a.active,
+.gray-color-scheme .header-social-icons .user-icon:hover,
+.gray-color-scheme .dotstyle-dotmove li a:hover,
+.gray-color-scheme .wrapper .wpb_button.wpb_btn-primary:hover,
+.gray-color-scheme .header-social-icons .logout-icon:hover,
+body.gray-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.gray-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	background-color: #AA9F81;
+}
+
+body.gray-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.gray-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	border-color: #AA9F81;
+}
+
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item > a::after,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.before-css:hover:before,
+.gray-color-scheme #buddypress ul.item-list h5 a:hover,
+.gray-color-scheme #buddypress .acomment-options a:hover,
+.gray-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li.current a,
+.gray-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li a:hover,
+.gray-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.gray-color-scheme #buddypress div.item-list-tabs ul li a:hover,
+.gray-color-scheme .wrapper #buddypress div.item-list-tabs ul li.selected a,
+.gray-color-scheme .wrapper #buddypress div.item-list-tabs ul li.current a,
+body.gray-color-scheme .wrapper .page-title h1 a,
+.gray-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover > a,
+.gray-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover:before,
+.gray-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item::before,
+.gray-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-ancestor::before,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item a,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor > a,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover a,
+.gray-color-scheme .wrapper .video-module-title .follow-category:hover,
+.gray-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.gray-color-scheme .wrapper .more_title .follow-category:hover,
+.gray-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.gray-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.gray-color-scheme .wrapper .more_title .follow-category-register:hover,
+.gray-color-scheme .wrapper .vc_tta-container .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title a {
+	color: #948C75;
+}
+
+.gray-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item a,
+.gray-color-scheme .wrapper .sidebar_menu .primary-menu li.menu-item.current-menu-ancestor > a {
+	border-right: 4px solid #948C75;
+}
+
+/*.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li.menu-item:hover a,
+.gray-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,*/
+.gray-color-scheme .wrapper blockquote p {
+	color: #948C75 !important;
+}
+
+.gray-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .featured_outline {
+	outline: 3px solid #948C75;
+}
+
+.gray-color-scheme .open_video_share .embed_text,
+.gray-color-scheme .video-socialshare-container h4,
+.gray-color-scheme .content-form.white-form .comment-reply-title,
+.gray-color-scheme .ac-device nav,
+.gray-color-scheme .ac-device nav span:first-child,
+.gray-color-scheme .wpcf7 textarea:active,
+.gray-color-scheme .featured_apps_container ul li,
+body.gray-color-scheme .flex-control-paging li a,
+body.gray-color-scheme .theme-default .nivo-controlNav a,
+.gray-color-scheme .page-wrapper .sidebar-right ul li:before,
+.gray-color-scheme .page-wrapper .main-inner ul li:before,
+body.gray-color-scheme .wpb_content_element .wpb_accordion_wrapper .ui-accordion-header-active,
+body.gray-color-scheme .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content,
+.gray-color-scheme .page-wrapper .categories_filter,
+.gray-color-scheme .wpb_content_element .wpb_tabs_nav,
+.gray-color-scheme .featured_apps_container ul,
+.gray-color-scheme .page-wrapper .categories_filter li,
+body.gray-color-scheme .wpb_content_element .wpb_tabs_nav li,
+.gray-color-scheme .mp-back:hover,
+.gray-color-scheme .category_sort_container .sort_param.clicked,
+.gray-color-scheme .wrapper .category_layout_container .layout.clicked,
+.gray-color-scheme .category_sort_container .sort_param:hover,
+.gray-color-scheme .category_layout_container .layout:hover,
+.gray-color-scheme .video_thumb_link:hover .video_thumb_more,
+.gray-color-scheme .wrapper .video-module-title .follow-category:hover,
+.gray-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.gray-color-scheme .wrapper .more_title .follow-category:hover,
+.gray-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.gray-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.gray-color-scheme .wrapper .more_title .follow-category-register:hover,
+.gray-color-scheme .header-social-icons.logout_icons {
+	border-color: #948C75 !important;
+}
+
+.gray-color-scheme .sidr .current-menu-item a,
+.gray-color-scheme .page-wrapper .bg-style-2 h1,
+.gray-color-scheme .page-wrapper .bg-style-3 h1,
+.gray-color-scheme .page-wrapper .bg-style-4 h1,
+.gray-color-scheme .page-wrapper .bg-style-5 h1,
+.gray-color-scheme .page-wrapper .bg-style-6 h1,
+.gray-color-scheme .page-wrapper .categories_filter li:hover a,
+.gray-color-scheme .page-wrapper .categories_filter li.active a,
+body.gray-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.gray-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.gray-color-scheme .featured_apps_container .ui-tabs-active a,
+.gray-color-scheme .featured_apps_container ul li a:hover {
+	color: #fff;
+}
+
+.gray-color-scheme #buddypress a.button,
+.gray-color-scheme #buddypress div.generic-button a,
+.gray-color-scheme .sf-menu > .current-menu-item > a,
+.gray-color-scheme .sf-menu > .current-page-ancestor > a,
+.gray-color-scheme .sf-menu > .current-menu-ancestor > a,
+.gray-color-scheme .sf-menu > .current-page-parent > a,
+.gray-color-scheme .sf-menu > .current_page_ancestor > a,
+.gray-color-scheme .sf-menu > li > .sub-menu,
+.gray-color-scheme .sf-menu > li:hover > a,
+.gray-color-scheme .sf-menu > li.sfHover > a,
+.gray-color-scheme .sf-menu a:hover,
+.gray-color-scheme .sf-menu .current-menu-item a,
+.gray-color-scheme .sf-menu .current-page-ancestor > .sub-menu .current-menu-parent > a,
+.gray-color-scheme .sf-menu .current-menu-ancestor > .sub-menu .current-menu-parent > a,
+.gray-color-scheme .sf-menu .current-page-parent > .sub-menu .current-menu-parent > a,
+.gray-color-scheme .sf-menu .current_page_ancestor > .sub-menu .current-menu-parent > a,
+.gray-color-scheme .textwidget a::before,
+.gray-color-scheme .widget li a:hover,
+.gray-color-scheme .page-wrapper .widget h4,
+.gray-color-scheme .wrapper .sidebar-inner .item-title-bg h4,
+.gray-color-scheme .mobera-recentpostsplus.widget h3 a:hover,
+.gray-color-scheme .ac-device nav span,
+.gray-color-scheme .ac-device .ac-title,
+.gray-color-scheme .page-wrapper h1,
+.gray-color-scheme .social-container .social-icons div a,
+.gray-color-scheme .staff-member .social-icons div a,
+.gray-color-scheme .content .entry-title,
+.gray-color-scheme .teaser_grid_container .post-title,
+.gray-color-scheme .page-wrapper .categories_filter li a,
+body.gray-color-scheme .wpb_content_element .wpb_accordion_header a,
+.gray-color-scheme .featured_apps_container ul li a,
+.gray-color-scheme .page-wrapper h3,
+.gray-color-scheme .page-wrapper > .page-title h1,
+.gray-color-scheme .cocoa-color-scheme a,
+.gray-color-scheme .cocoa-color-scheme .dropcap,
+.gray-color-scheme .wrapper .page-title h1,
+.gray-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .slide_video_info .video_name,
+.gray-color-scheme ul.video_module li .video_container:hover .vid_info > span a,
+.gray-color-scheme .footer-wrapper .footer-container .bottom-menu-container .footer-menu li:hover a,
+.gray-color-scheme .wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active a,
+.gray-color-scheme .wrapper .sidebar-inner .widget-title,
+.gray-color-scheme .wrapper h3.widget-title a,
+.gray-color-scheme .widget #calendar_wrap #today,
+.gray-color-scheme .wrapper .nav-single a:hover:before,
+.gray-color-scheme .wrapper .more_title,
+.gray-color-scheme .video-block-container.open-video .video-block:hover .vid_info a,
+.gray-color-scheme .video-block-container.video-home li:hover .vid_info a span,
+.gray-color-scheme .footer-container .scroll-to-top:hover:before,
+.gray-color-scheme .open_video_likes span.liked,
+.gray-color-scheme .video-cat-thumb .vc_separator .open_video_more,
+.gray-color-scheme .open_video_share .embed_text,
+.gray-color-scheme .category_sort_container .sort_param.clicked,
+.gray-color-scheme .wrapper .category_layout_container .layout.clicked,
+.gray-color-scheme .category_sort_container .sort_param:hover,
+.gray-color-scheme .category_layout_container .layout:hover,
+.gray-color-scheme .category_layout_container .layout:hover:before,
+.gray-color-scheme .suggested-video-container .suggested-text,
+.gray-color-scheme.single-videogallery #comments #comments-title,
+.gray-color-scheme #comments h6#comments-title,
+.gray-color-scheme #author-link a,
+.gray-color-scheme .video-module-title,
+.gray-color-scheme .video-carousel-title,
+.gray-color-scheme .wrapper .video_header,
+.gray-color-scheme .wrapper .wpb_thumbnails .isotope-item span a,
+.gray-color-scheme .wrapper .video_player .video_thumb_link:hover,
+.gray-color-scheme .wrapper .video_player .video_thumb_link:hover .video_thumb_more,
+.gray-color-scheme .more-author-videos .vid_info .videoHname:hover,
+.gray-color-scheme .suggested-video-container .vid_info .videoHname:hover,
+.gray-color-scheme .wpb_thumbnails .isotope-item .post-date .blog-postedby-info a:hover,
+.gray-color-scheme .wrapper .wpb_thumbnails .isotope-item .post-title a:hover,
+.gray-color-scheme .wrapper .title-video-count a:hover,
+.gray-color-scheme #buddypress #activity-filter-select label,
+.gray-color-scheme #buddypress #members-order-select label,
+.gray-color-scheme #buddypress #groups-order-select label,
+.gray-color-scheme #buddypress a.activity-time-since:hover span,
+.gray-color-scheme #buddypress .activity .activity-header a:hover,
+.gray-color-scheme .wrapper #buddypress ul.item-list li a.button,
+.gray-color-scheme .wrapper #buddypress a.button,
+.gray-color-scheme #buddypress .activity-list .activity-content .activity-inner a,
+.gray-color-scheme #buddypress div.activity-comments div.acomment-meta a:hover,
+.gray-color-scheme #buddypress .acomment-options a,
+.gray-color-scheme .reply-edit-container a.comment-edit-link,
+.gray-color-scheme #buddypress div#item-header div#item-meta #latest-update a,
+.gray-color-scheme .submit_video_container .video_category,
+.gray-color-scheme .wrapper .vc_gitem-col .blog-read-more a {
+	color: #948C75;
+}
+
+.gray-color-scheme .top-header .header_search:hover {
+	box-shadow: 3px 4px 6px rgba(148, 140, 117, 0.4);
+}
+
+.gray-color-scheme .video_player.vid_thumbnail .video_module li .video_container:hover .video_image_container,
+.gray-color-scheme .wpb_thumbnails .isotope-item .post-thumb .post-thumb-img-wrapper:hover,
+.gray-color-scheme .wrapper .vc_gitem-col .post-thumb-img-wrapper:hover,
+.gray-color-scheme ul.video_module li .video_container:hover .imgSidethumb,
+.gray-color-scheme .video-block-container.open-video .video-block:hover .video-thumbimg,
+.gray-color-scheme .video-block-container.video-home li:hover .video-thumbimg {
+	box-shadow: 0px 0px 0px 6px rgba(148, 140, 117, 1);
+}
+
+.gray-color-scheme .footer-container.default .bottom-menu-container .footer-menu li.current-menu-item,
+.gray-color-scheme .avatar_box {
+	border-top: 4px solid #948C75;
+}
+
+.gray-color-scheme.single-videogallery #author-info .avatar_box {
+	border: none;
+}
+
+.gray-color-scheme .wrapper blockquote,
+.gray-color-scheme #gallery_banner_list ul li.ui-tabs-selected {
+	border-left: 4px solid #948C75;
+}
+
+.gray-color-scheme .video-more a:hover,
+.gray-color-scheme .wrapper .nav-single a:hover,
+.gray-color-scheme .wrapper .video-more-category:hover {
+	border-color: #948C75;
+	color: #948C75 !important;
+}
+
+.gray-color-scheme #buddypress ul.item-list h5 a,
+.gray-color-scheme #buddypress ul.item-list li div.item-title {
+	color: rgba(148, 140, 117, 0.5);
+}
+
+.gray-color-scheme .reply-edit-container a.comment-edit-link,
+.gray-color-scheme a.comment-reply-link {
+	color: rgba(148, 140, 117, 0.5);
+}
+
+.gray-color-scheme #buddypress ul.item-list h5 a:hover,
+.gray-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.gray-color-scheme .wrapper a.comment-reply-link:hover,
+.gray-color-scheme .wrapper a.comment-edit-link:hover,
+.gray-color-scheme #author-link a:hover {
+	color: rgba(148, 140, 117, 1) !important;
+}
+
+.gray-color-scheme .wrapper .page-numbers:hover,
+.gray-color-scheme .wrapper .page-numbers.current,
+.gray-color-scheme .more_title a:not(.video-category-count):not(.unfollow-category):hover,
+.gray-color-scheme .vh-pages-wrapper span.current,
+.gray-color-scheme .wrapper .vh-pages-wrapper a:hover,
+.gray-color-scheme #comment-nav-above .nav-previous a:hover,
+.gray-color-scheme #comment-nav-below .nav-previous a:hover,
+.gray-color-scheme #comment-nav-below .nav-next a:hover {
+	border: 1px solid #948C75;
+	color: #948C75 !important;
+}

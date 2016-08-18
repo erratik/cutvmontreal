@@ -1,0 +1,515 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Snaptube Functionality v2.1.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-01-26 10:04:08+0000\n"
+"Last-Translator: Cohhe <support@cohhe.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: lib/functions/contusFunctions.php:1418
+#: lib/functions/contusFunctions.php:1613
+#: lib/functions/contusFunctions.php:1875
+#: lib/functions/shortcodes.php:2208
+#: lib/functions/shortcodes.php:2847
+#: lib/functions/shortcodes.php:3053
+#@ video_gallery
+#@ vh
+msgid "More&nbsp;Videos"
+msgstr ""
+
+#: lib/functions/shortcodes.php:3058
+#@ vh
+msgid "No Videos for this Category"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1940
+#: lib/functions/shortcodes.php:2230
+#: lib/functions/shortcodes.php:2331
+#: lib/functions/shortcodes.php:3075
+#@ aag
+msgid "&laquo;"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1941
+#: lib/functions/shortcodes.php:2231
+#: lib/functions/shortcodes.php:2332
+#: lib/functions/shortcodes.php:3076
+#@ aag
+msgid "&raquo;"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:314
+#: lib/functions/shortcodes.php:2525
+#@ video_gallery
+msgid "Player doesnot support this video."
+msgstr ""
+
+#: lib/functions/contusFunctions.php:315
+#: lib/functions/shortcodes.php:680
+#: lib/functions/shortcodes.php:1169
+#: lib/functions/shortcodes.php:1797
+#: lib/functions/shortcodes.php:2100
+#: lib/functions/shortcodes.php:2502
+#: lib/functions/shortcodes.php:2748
+#: lib/functions/shortcodes.php:2977
+#: lib/functions/shortcodes.php:3275
+#@ video_gallery
+#@ vh
+msgid "Html5 Not support This video Format."
+msgstr ""
+
+#: lib/functions/contusFunctions.php:332
+#@ vh
+msgid "Share this video:"
+msgstr "sssss"
+
+#: lib/functions/contusFunctions.php:827
+#@ video_gallery
+msgid "Tags"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:864
+#@ vh
+msgid "Embed&nbsp;Code"
+msgstr "eeeee"
+
+#: lib/functions/contusFunctions.php:925
+#@ vh
+msgid "Show more"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:974
+#@ vh
+msgid "Video author:"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:982
+#: lib/functions/shortcodes.php:607
+#: lib/functions/shortcodes.php:979
+#: lib/functions/shortcodes.php:1653
+#: lib/functions/shortcodes.php:2024
+#: lib/functions/shortcodes.php:2907
+#: lib/functions/shortcodes.php:3205
+#@ vh
+msgid " videos"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:983
+#@ vh
+msgid " comments"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:990
+#@ vh
+msgid "Other videos by "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1174
+#, php-format
+#@ vh
+msgid "View all %s videos"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1203
+#@ video_gallery
+msgid "Post Your Comments"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1227
+#@ video_gallery
+msgid "Please enable JavaScript to view the"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1227
+#@ video_gallery
+msgid "comments powered by Disqus."
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1228
+#@ video_gallery
+msgid "comments powered by"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1228
+#@ video_gallery
+msgid "Disqus"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1327
+#: lib/functions/contusFunctions.php:1523
+#: lib/functions/contusFunctions.php:1780
+#: lib/functions/shortcodes.php:1347
+#: lib/functions/shortcodes.php:1574
+#: lib/functions/shortcodes.php:1987
+#: lib/functions/shortcodes.php:2410
+#@ video_gallery
+#@ vh
+msgid "Views"
+msgstr "vvvv"
+
+#: lib/functions/contusFunctions.php:1328
+#: lib/functions/contusFunctions.php:1524
+#: lib/functions/contusFunctions.php:1781
+#: lib/functions/shortcodes.php:1348
+#: lib/functions/shortcodes.php:2411
+#@ video_gallery
+#@ vh
+msgid "View"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1415
+#@ video_gallery
+msgid "No Popular videos"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1610
+#@ video_gallery
+msgid "No Featured Videos"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1870
+#@ video_gallery
+msgid "No recent Videos"
+msgstr ""
+
+#: lib/functions/general.php:82
+#@ default
+msgid "Links"
+msgstr ""
+
+#: lib/functions/shortcodes.php:849
+#: lib/functions/shortcodes.php:3447
+#@ vh
+msgid " more"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1350
+#: lib/functions/shortcodes.php:1502
+#@ video_gallery
+msgid "Video Search ..."
+msgstr ""
+
+#: lib/functions/shortcodes.php:1395
+#: lib/functions/shortcodes.php:2588
+#@ video_gallery
+#@ vh
+msgid "Popular"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1412
+#: lib/functions/shortcodes.php:2597
+#@ video_gallery
+#@ vh
+msgid "Recent"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1455
+#: lib/functions/shortcodes.php:2607
+#@ video_gallery
+#@ vh
+msgid "Featured"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1482
+#@ video_gallery
+msgid "Category"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1497
+#@ video_gallery
+msgid "User"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1540
+#: lib/functions/shortcodes.php:2617
+#@ video_gallery
+#@ vh
+msgid "Video Categories"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1565
+#: lib/functions/shortcodes.php:1979
+#@ vh
+msgid "Layout:"
+msgstr "lllll"
+
+#: lib/functions/shortcodes.php:1571
+#: lib/functions/shortcodes.php:1984
+#@ vh
+msgid "Sort by:"
+msgstr "asdasd"
+
+#: lib/functions/shortcodes.php:1572
+#: lib/functions/shortcodes.php:1985
+#@ vh
+msgid "Date"
+msgstr "dddd"
+
+#: lib/functions/shortcodes.php:1573
+#: lib/functions/shortcodes.php:1986
+#@ vh
+msgid "Title"
+msgstr "tttt"
+
+#: lib/functions/shortcodes.php:1660
+#: lib/functions/shortcodes.php:1922
+#: lib/functions/shortcodes.php:1924
+#: lib/functions/shortcodes.php:2649
+#: lib/functions/shortcodes.php:2854
+#@ vh
+msgid "Videos"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1922
+#: lib/functions/shortcodes.php:1924
+#: lib/functions/shortcodes.php:2854
+#@ vh
+msgid "No"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1922
+#@ vh
+msgid "Under&nbsp;this&nbsp;Category"
+msgstr ""
+
+#: lib/functions/shortcodes.php:2213
+#@ vh
+msgid "No&nbsp;Videos&nbsp;for&nbsp;this&nbsp;Category"
+msgstr ""
+
+#: lib/functions/shortcodes.php:2255
+#@ vh
+msgid "Search Results"
+msgstr ""
+
+#: lib/functions/shortcodes.php:2312
+#@ vh
+msgid "No&nbsp;Videos&nbsp;Found"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:12
+#@ vh
+msgid "Displays a twitter feed"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:14
+#@ vh
+msgid "Snaptube - Twitter"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:19
+#@ vh
+msgid "Recent Tweets"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:57
+#, php-format
+#@ vh
+msgid "about %d seconds ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:58
+#@ vh
+msgid "about a minute ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:59
+#, php-format
+#@ vh
+msgid "about %d minutes ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:60
+#@ vh
+msgid "about an hour ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:61
+#, php-format
+#@ vh
+msgid "about %d hours ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:62
+#@ vh
+msgid "about a day ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:63
+#, php-format
+#@ vh
+msgid "about %d days ago"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:92
+#@ vh
+msgid "Title:"
+msgstr "tttt"
+
+#: lib/widgets/twitter/twitter.php:96
+#@ vh
+msgid "Usernames (separate with comas):"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:100
+#@ vh
+msgid "height and width of avatar if displayed (54px max)(optional)"
+msgstr ""
+
+#: lib/widgets/twitter/twitter.php:104
+#@ vh
+msgid "How many tweets to display?"
+msgstr ""
+
+#: lib/functions/shortcodes.php:594
+#: lib/functions/shortcodes.php:601
+#: lib/functions/shortcodes.php:604
+#: lib/functions/shortcodes.php:966
+#: lib/functions/shortcodes.php:973
+#: lib/functions/shortcodes.php:976
+#: lib/functions/shortcodes.php:1635
+#: lib/functions/shortcodes.php:1642
+#: lib/functions/shortcodes.php:1650
+#: lib/functions/shortcodes.php:2011
+#: lib/functions/shortcodes.php:2018
+#: lib/functions/shortcodes.php:2021
+#: lib/functions/shortcodes.php:2894
+#: lib/functions/shortcodes.php:2901
+#: lib/functions/shortcodes.php:2904
+#@ vh
+msgid "Follow"
+msgstr "fffff"
+
+#: lib/functions/shortcodes.php:596
+#: lib/functions/shortcodes.php:968
+#: lib/functions/shortcodes.php:1637
+#: lib/functions/shortcodes.php:2013
+#: lib/functions/shortcodes.php:2896
+#@ vh
+msgid "Unfollow"
+msgstr "unffffff"
+
+#: lib/functions/shortcodes.php:1527
+#: lib/functions/shortcodes.php:1597
+#: lib/functions/shortcodes.php:3459
+#@ video_gallery
+#@ vh
+msgid "Followed"
+msgstr "ffffed"
+
+#: lib/functions/shortcodes.php:3205
+#@ vh
+msgid "new"
+msgstr ""
+
+#: lib/functions/shortcodes.php:3338
+#@ vh
+msgid "New"
+msgstr ""
+
+#: lib/functions/shortcodes.php:3461
+#@ vh
+msgid "Currently you are not following any category."
+msgstr "ccccc"
+
+#: lib/functions/contusFunctions.php:594
+#: lib/functions/contusFunctions.php:597
+#: lib/functions/contusFunctions.php:1124
+#: lib/functions/shortcodes.php:199
+#: lib/functions/shortcodes.php:772
+#: lib/functions/shortcodes.php:1253
+#: lib/functions/shortcodes.php:1841
+#: lib/functions/shortcodes.php:2155
+#: lib/functions/shortcodes.php:2791
+#: lib/functions/shortcodes.php:3380
+#@ vh
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: lib/functions/contusFunctions.php:634
+#@ vh
+msgid "ago"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:893
+#@ video_gallery
+msgid "Report&nbsp;Video"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1697
+#@ video_gallery
+msgid "No Categories"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:1701
+#@ video_gallery
+msgid "More Categories"
+msgstr ""
+
+#: lib/functions/shortcodes.php:1428
+#@ video_gallery
+msgid "Random"
+msgstr ""
+
+#: lib/functions/contus.php:122
+#@ vh
+msgid "This format is not supported"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:627
+#@ vh
+msgid "View the video for more details"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:742
+#: lib/functions/contusFunctions.php:791
+#: lib/functions/contusFunctions.php:801
+#: lib/functions/contusFunctions.php:803
+#@ vh
+msgid "Ratings : "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:781
+#@ vh
+msgid "Thanks for rating!"
+msgstr ""
+
+#: lib/functions/contusFunctions.php:808
+#@ vh
+msgid "Poor : "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:810
+#@ vh
+msgid "Nothing Special : "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:812
+#@ vh
+msgid "Worth Watching : "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:814
+#@ vh
+msgid "Pretty Cool : "
+msgstr ""
+
+#: lib/functions/contusFunctions.php:816
+#@ vh
+msgid "Awesome : "
+msgstr ""
+

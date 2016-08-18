@@ -1,0 +1,376 @@
+/* green color scheme */
+
+.green-color-scheme .wpb_carousel .wpb_thumbnails-fluid li a.link_image:hover,
+.green-color-scheme .wpb_teaser_grid ul .isotope-item a.link_image:hover,
+.green-color-scheme .mobera-fastflickrwidget.widget a:hover,
+.green-color-scheme .featured_apps_container .app-content-overlay {
+	background-color: rgba(127, 175, 27, 0.7);
+}
+
+.green-color-scheme #buddypress a.bp-primary-action span,
+.green-color-scheme #buddypress div.item-list-tabs ul li a span,
+.green-color-scheme .wrapper .flex-control-paging li a,
+.green-color-scheme .wrapper .theme-default .nivo-controlNav a {
+	background-color: rgba(127, 175, 27,0.5);
+}
+
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item > a::after,
+.green-color-scheme #buddypress a.bp-primary-action:hover span,
+.green-color-scheme #buddypress div.item-list-tabs ul li a:hover span,
+.green-color-scheme #buddypress div.item-list-tabs ul li.selected a span,
+.green-color-scheme #buddypress div.item-list-tabs ul li.current a span,
+.green-color-scheme #buddypress input[type=submit],
+.green-color-scheme .widget #bp-login-widget-form input[type=submit],
+.green-color-scheme #buddypress input[type=button],
+.green-color-scheme .pageload-overlay::after,
+.green-color-scheme .sidr .current-menu-item a,
+.green-color-scheme .sidr ul li:hover>a,
+.green-color-scheme .sidr ul li:hover>span,
+.green-color-scheme .sidr ul li.active>a,
+.green-color-scheme .sidr ul li.active>span,
+.green-color-scheme .sidr ul li.sidr-class-active>a,
+.green-color-scheme .sidr ul li.sidr-class-active>span,
+.green-color-scheme .sidr ul li ul li:hover>a,
+.green-color-scheme .sidr ul li ul li:hover>span,
+.green-color-scheme .sidr ul li ul li.active>a,
+.green-color-scheme .sidr ul li ul li.active>span,
+.green-color-scheme .sidr ul li ul li.sidr-class-active>a,
+.green-color-scheme .sidr ul li ul li.sidr-class-active>span,
+.green-color-scheme .mobera-contactform.widget .submitButton input[type=submit]:hover,
+.green-color-scheme .mobera-contactform.widget .submitButton input[type=submit],
+html .green-color-scheme .main-inner a.store_button,
+.green-color-scheme .ac-device nav span:hover,
+.green-color-scheme .wpcf7 .wpcf7-submit,
+.green-color-scheme .wpcf7 .wpcf7-submit:hover,
+.green-color-scheme .mp-menu .nav li.current-menu-ancestor > a,
+.green-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.green-color-scheme .mp-menu .nav li.current-menu-item > a,
+.green-color-scheme .mp-menu .nav li.current_page_item > a,
+.green-color-scheme .mp-menu .nav li.current-menu-parent > a,
+.green-color-scheme .mp-menu .nav li.dropdown:hover > a,
+.green-color-scheme .mp-menu .current-menu-item a,
+.green-color-scheme .mp-menu ul li a:hover,
+.green-color-scheme .mp-level > ul > li:first-child > a:hover,
+body.green-color-scheme .wpb_image_grid .wpb_image_grid_ul .isotope-item:hover,
+.green-color-scheme .menu-container .sb-icon-search,
+.green-color-scheme .main-body-color,
+.green-color-scheme .page-wrapper .categories_filter li:hover a,
+.green-color-scheme .page-wrapper .categories_filter li.active a,
+body.green-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.green-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.green-color-scheme .featured_apps_container .ui-tabs-active a,
+.green-color-scheme .featured_apps_container ul li a:hover,
+body.green-color-scheme .theme-default .nivo-controlNav a:hover,
+body.green-color-scheme .flex-control-paging li a:hover,
+body.green-color-scheme .flex-control-paging li a.flex-active,
+.green-color-scheme .comment_seperator,
+.green-color-scheme .footer_menu_sep,
+.green-color-scheme .pushy a:hover,
+.green-color-scheme .video_carousel_button:hover,
+.green-color-scheme .open_video_likes span,
+.green-color-scheme .comment-form .form-submit input,
+.green-color-scheme .widget #videos-search #videosearchform #videosearchsubmit,
+.green-color-scheme .sb-search-submit,
+.green-color-scheme .btn-primary,
+.green-color-scheme .wrapper .flex-control-paging li a:hover,
+.green-color-scheme .theme-default .nivo-controlNav a:hover,
+.green-color-scheme .header-social-icons .user-icon,
+.green-color-scheme .wrapper .wpb_button.wpb_btn-primary,
+.green-color-scheme .top-header .menu-btn,
+.green-color-scheme .wrapper .video-module-title .unfollow-category,
+.green-color-scheme .wrapper .video-carousel-title .unfollow-category,
+body.green-color-scheme .wrapper .more_title .unfollow-category,
+.green-color-scheme .video_image_container .new-video,
+.green-color-scheme .followed_title,
+.green-color-scheme .header-social-icons .logout-icon,
+.green-color-scheme .wrapper .vc_tta-container .vc_tta-tabs-container .vc_tta-tab.vc_active a {
+	background-color: #7FAF1B;
+}
+
+.green-color-scheme .open_video_likes_count {
+	background: rgba(127,175,27,0.7);
+}
+
+.green-color-scheme .open_video_likes_count:before {
+	border-right-color: #a4c65d;
+}
+
+.green-color-scheme .header-social-icons.login_icons {
+	border-right: 1px solid #7FAF1B;
+}
+
+.green-color-scheme .tagcloud .tag_cloud_post_tag a:hover {
+	background-color: #7FAF1B !important;
+}
+
+.green-color-scheme #buddypress input[type=submit]:hover,
+.green-color-scheme .widget #bp-login-widget-form input[type=submit]:hover,
+.green-color-scheme #buddypress input[type=button]:hover,
+.green-color-scheme .open_video_likes span:hover,
+.green-color-scheme .comment-form .form-submit input:hover,
+.green-color-scheme .widget #videos-search #videosearchform #videosearchsubmit:hover,
+.green-color-scheme .sb-search-submit:hover,
+.green-color-scheme .btn-primary:hover,
+.green-color-scheme .dotstyle-dotmove li:last-child::after,
+.green-color-scheme .wrapper .flex-control-paging li a.flex-active,
+.green-color-scheme .wrapper .theme-default .nivo-controlNav a.active,
+.green-color-scheme .header-social-icons .user-icon:hover,
+.green-color-scheme .dotstyle-dotmove li a:hover,
+.green-color-scheme .wrapper .wpb_button.wpb_btn-primary:hover,
+.green-color-scheme .header-social-icons .logout-icon:hover,
+body.green-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.green-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	background-color: #92CE16;
+}
+
+body.green-color-scheme .vc_general.vc_pagination .vc_active .vc_pagination-trigger,
+body.green-color-scheme .vc_general.vc_pagination .vc_pagination-trigger:hover {
+	border-color: #92CE16;
+}
+
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item > a::after,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.before-css:hover:before,
+.green-color-scheme #buddypress ul.item-list h5 a:hover,
+.green-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li.current a,
+.green-color-scheme .wrapper #buddypress div.item-list-tabs#subnav ul li a:hover,
+.green-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.green-color-scheme #buddypress div.item-list-tabs ul li a:hover,
+.green-color-scheme .wrapper #buddypress div.item-list-tabs ul li.selected a,
+.green-color-scheme .wrapper #buddypress div.item-list-tabs ul li.current a,
+body.green-color-scheme .wrapper .page-title h1 a,
+.green-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover > a,
+.green-color-scheme .sidebar_menu ul.primary-menu > li.menu-item:hover:before,
+.green-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item::before,
+.green-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-ancestor::before,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item a,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor > a,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover a,
+.green-color-scheme .wrapper .video-module-title .follow-category:hover,
+.green-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.green-color-scheme .wrapper .more_title .follow-category:hover,
+.green-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.green-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.green-color-scheme .wrapper .more_title .follow-category-register:hover,
+.green-color-scheme .wrapper .vc_tta-container .vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title a {
+	color: #7FAF1B;
+}
+
+.green-color-scheme .sidebar_menu ul.primary-menu > li.menu-item.current-menu-item a,
+.green-color-scheme .wrapper .sidebar_menu .primary-menu li.menu-item.current-menu-ancestor > a {
+	border-right: 4px solid #7FAF1B;
+}
+
+/*.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover a,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-item ul.sub-menu li:hover,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li.menu-item:hover a,
+.green-color-scheme .sidebar_menu ul.primary-menu li.menu-item.current-menu-ancestor ul.sub-menu li:hover,*/
+.green-color-scheme .wrapper blockquote p {
+	color: #7FAF1B !important;
+}
+
+.green-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .featured_outline {
+	outline: 3px solid #7FAF1B;
+}
+
+.green-color-scheme .open_video_share .embed_text,
+.green-color-scheme .video-socialshare-container h4,
+.green-color-scheme .content-form.white-form .comment-reply-title,
+.green-color-scheme .ac-device nav,
+.green-color-scheme .ac-device nav span:first-child,
+.green-color-scheme .wpcf7 textarea:active,
+.green-color-scheme .featured_apps_container ul li,
+body.green-color-scheme .flex-control-paging li a,
+body.green-color-scheme .theme-default .nivo-controlNav a,
+.green-color-scheme .page-wrapper .sidebar-right ul li:before,
+.green-color-scheme .page-wrapper .main-inner ul li:before,
+body.green-color-scheme .wpb_content_element .wpb_accordion_wrapper .ui-accordion-header-active,
+body.green-color-scheme .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content,
+.green-color-scheme .page-wrapper .categories_filter,
+.green-color-scheme .wpb_content_element .wpb_tabs_nav,
+.green-color-scheme .featured_apps_container ul,
+.green-color-scheme .page-wrapper .categories_filter li,
+body.green-color-scheme .wpb_content_element .wpb_tabs_nav li,
+.green-color-scheme .mp-back:hover,
+.green-color-scheme .category_sort_container .sort_param.clicked,
+.green-color-scheme .wrapper .category_layout_container .layout.clicked,
+.green-color-scheme .category_sort_container .sort_param:hover,
+.green-color-scheme .category_layout_container .layout:hover,
+.green-color-scheme .video_thumb_link:hover .video_thumb_more,
+.green-color-scheme .wrapper .video-module-title .follow-category:hover,
+.green-color-scheme .wrapper .video-carousel-title .follow-category:hover,
+body.green-color-scheme .wrapper .more_title .follow-category:hover,
+.green-color-scheme .wrapper .video-module-title .follow-category-register:hover,
+.green-color-scheme .wrapper .video-carousel-title .follow-category-register:hover,
+body.green-color-scheme .wrapper .more_title .follow-category-register:hover,
+.green-color-scheme .header-social-icons.logout_icons {
+	border-color: #7FAF1B !important;
+}
+
+.green-color-scheme .sidr .current-menu-item a,
+.green-color-scheme .page-wrapper .bg-style-2 h1,
+.green-color-scheme .page-wrapper .bg-style-3 h1,
+.green-color-scheme .page-wrapper .bg-style-4 h1,
+.green-color-scheme .page-wrapper .bg-style-5 h1,
+.green-color-scheme .page-wrapper .bg-style-6 h1,
+.green-color-scheme .page-wrapper .categories_filter li:hover a,
+.green-color-scheme .page-wrapper .categories_filter li.active a,
+body.green-color-scheme .wpb_content_element .wpb_tabs_nav li.ui-tabs-active a,
+body.green-color-scheme .wpb_content_element .wpb_tabs_nav li:hover a,
+.green-color-scheme .featured_apps_container .ui-tabs-active a,
+.green-color-scheme .featured_apps_container ul li a:hover {
+	color: #fff;
+}
+
+.green-color-scheme #buddypress a.button,
+.green-color-scheme #buddypress div.generic-button a,
+.green-color-scheme .sf-menu > .current-menu-item > a,
+.green-color-scheme .sf-menu > .current-page-ancestor > a,
+.green-color-scheme .sf-menu > .current-menu-ancestor > a,
+.green-color-scheme .sf-menu > .current-page-parent > a,
+.green-color-scheme .sf-menu > .current_page_ancestor > a,
+.green-color-scheme .sf-menu > li > .sub-menu,
+.green-color-scheme .sf-menu > li:hover > a,
+.green-color-scheme .sf-menu > li.sfHover > a,
+.green-color-scheme .sf-menu a:hover,
+.green-color-scheme .sf-menu .current-menu-item a,
+.green-color-scheme .sf-menu .current-page-ancestor > .sub-menu .current-menu-parent > a,
+.green-color-scheme .sf-menu .current-menu-ancestor > .sub-menu .current-menu-parent > a,
+.green-color-scheme .sf-menu .current-page-parent > .sub-menu .current-menu-parent > a,
+.green-color-scheme .sf-menu .current_page_ancestor > .sub-menu .current-menu-parent > a,
+.green-color-scheme .textwidget a::before,
+.green-color-scheme .widget li a:hover,
+.green-color-scheme .page-wrapper .widget h4,
+.green-color-scheme .wrapper .sidebar-inner .item-title-bg h4,
+.green-color-scheme .mobera-recentpostsplus.widget h3 a:hover,
+.green-color-scheme .ac-device nav span,
+.green-color-scheme .ac-device .ac-title,
+.green-color-scheme .page-wrapper h1,
+.green-color-scheme .social-container .social-icons div a,
+.green-color-scheme .staff-member .social-icons div a,
+.green-color-scheme .content .entry-title,
+.green-color-scheme .teaser_grid_container .post-title,
+.green-color-scheme .page-wrapper .categories_filter li a,
+body.green-color-scheme .wpb_content_element .wpb_accordion_header a,
+.green-color-scheme .featured_apps_container ul li a,
+.green-color-scheme .page-wrapper h3,
+.green-color-scheme .page-wrapper > .page-title h1,
+.green-color-scheme .cocoa-color-scheme a,
+.green-color-scheme .cocoa-color-scheme .dropcap,
+.green-color-scheme .wrapper .page-title h1,
+.green-color-scheme #gallery_banner_list ul li:hover .switch_featured_video .slide_video_info .video_name,
+.green-color-scheme ul.video_module li .video_container:hover .vid_info > span a,
+.green-color-scheme .footer-wrapper .footer-container .bottom-menu-container .footer-menu li:hover a,
+.green-color-scheme .wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active a,
+.green-color-scheme .wrapper .sidebar-inner .widget-title,
+.green-color-scheme .wrapper h3.widget-title a,
+.green-color-scheme .widget #calendar_wrap #today,
+.green-color-scheme .wrapper .nav-single a:hover:before,
+.green-color-scheme .wrapper .more_title,
+.green-color-scheme .video-block-container.open-video .video-block:hover .vid_info a,
+.green-color-scheme .video-block-container.video-home li:hover .vid_info a span,
+.green-color-scheme .footer-container .scroll-to-top:hover:before,
+.green-color-scheme .open_video_likes span.liked,
+.green-color-scheme .author-info-lower #author-link a,
+.green-color-scheme .video-cat-thumb .vc_separator .open_video_more,
+.green-color-scheme .open_video_share .embed_text,
+.green-color-scheme .category_sort_container .sort_param.clicked,
+.green-color-scheme .wrapper .category_layout_container .layout.clicked,
+.green-color-scheme .category_sort_container .sort_param:hover,
+.green-color-scheme .category_layout_container .layout:hover,
+.green-color-scheme .category_layout_container .layout:hover:before,
+.green-color-scheme .suggested-video-container .suggested-text,
+.green-color-scheme.single-videogallery #comments #comments-title,
+.green-color-scheme #comments h6#comments-title,
+.green-color-scheme .video-module-title,
+.green-color-scheme .video-carousel-title,
+.green-color-scheme .wrapper .video_header,
+.green-color-scheme .wrapper .wpb_thumbnails .isotope-item span a,
+.green-color-scheme .wrapper .video_player .video_thumb_link:hover,
+.green-color-scheme .wrapper .video_player .video_thumb_link:hover .video_thumb_more,
+.green-color-scheme .more-author-videos .vid_info .videoHname:hover,
+.green-color-scheme .suggested-video-container .vid_info .videoHname:hover,
+.green-color-scheme .wpb_thumbnails .isotope-item .post-date .blog-postedby-info a:hover,
+.green-color-scheme .wrapper .wpb_thumbnails .isotope-item .post-title a:hover,
+.green-color-scheme .wrapper .title-video-count a:hover,
+.green-color-scheme #buddypress #activity-filter-select label,
+.green-color-scheme #buddypress #members-order-select label,
+.green-color-scheme #buddypress #groups-order-select label,
+.green-color-scheme #buddypress a.activity-time-since:hover span,
+.green-color-scheme #buddypress .activity .activity-header a:hover,
+.green-color-scheme .wrapper #buddypress ul.item-list li a.button,
+.green-color-scheme .wrapper #buddypress a.button,
+.green-color-scheme #buddypress .activity-list .activity-content .activity-inner a,
+.green-color-scheme #buddypress div.activity-comments div.acomment-meta a:hover,
+.green-color-scheme #buddypress .acomment-options a,
+.green-color-scheme .reply-edit-container a.comment-edit-link,
+.green-color-scheme #buddypress div#item-header div#item-meta #latest-update a,
+.green-color-scheme .submit_video_container .video_category,
+.green-color-scheme .wrapper .vc_gitem-col .blog-read-more a {
+	color: #7FAF1B;
+}
+
+.green-color-scheme .top-header .header_search:hover {
+	box-shadow: 3px 4px 6px rgba(127, 175, 27, 0.4);
+}
+
+.green-color-scheme .video_player.vid_thumbnail .video_module li .video_container:hover .video_image_container,
+.green-color-scheme .wpb_thumbnails .isotope-item .post-thumb .post-thumb-img-wrapper:hover,
+.green-color-scheme .wrapper .vc_gitem-col .post-thumb-img-wrapper:hover,
+.green-color-scheme ul.video_module li .video_container:hover .imgSidethumb,
+.green-color-scheme .video-block-container.open-video .video-block:hover .video-thumbimg,
+.green-color-scheme .video-block-container.video-home li:hover .video-thumbimg {
+	box-shadow: 0px 0px 0px 6px rgba(127, 175, 27, 1);
+}
+
+.green-color-scheme .footer-container.default .bottom-menu-container .footer-menu li.current-menu-item,
+.green-color-scheme .avatar_box {
+	border-top: 4px solid #7FAF1B;
+}
+
+.green-color-scheme.single-videogallery #author-info .avatar_box {
+	border: none;
+}
+
+.green-color-scheme .wrapper blockquote,
+.green-color-scheme #gallery_banner_list ul li.ui-tabs-selected {
+	border-left: 4px solid #7FAF1B;
+}
+
+.green-color-scheme .video-more a:hover,
+.green-color-scheme .wrapper .nav-single a:hover,
+.green-color-scheme .wrapper .video-more-category:hover {
+	border-color: #7FAF1B;
+	color: #7FAF1B !important;
+}
+
+.green-color-scheme #buddypress ul.item-list h5 a {
+	color: rgba(127, 175, 27, 0.5);
+}
+
+.green-color-scheme #author-link a,
+.green-color-scheme a.comment-reply-link {
+	color: rgba(127, 175, 27, 0.5);
+}
+
+.green-color-scheme #buddypress ul.item-list h5 a:hover,
+.green-color-scheme #buddypress ul.item-list li div.item-title a:hover,
+.green-color-scheme .wrapper a.comment-reply-link:hover,
+.green-color-scheme .wrapper a.comment-edit-link:hover,
+.green-color-scheme #author-link a:hover {
+	color: rgba(127, 175, 27, 1) !important;
+}
+
+.green-color-scheme .wrapper .page-numbers:hover,
+.green-color-scheme .wrapper .page-numbers.current,
+.green-color-scheme .more_title a:not(.video-category-count):not(.unfollow-category):hover,
+.green-color-scheme .vh-pages-wrapper span.current,
+.green-color-scheme .wrapper .vh-pages-wrapper a:hover,
+.green-color-scheme #comment-nav-above .nav-previous a:hover,
+.green-color-scheme #comment-nav-below .nav-previous a:hover,
+.green-color-scheme #comment-nav-below .nav-next a:hover {
+	border: 1px solid #7FAF1B;
+	color: #7FAF1B !important;
+}

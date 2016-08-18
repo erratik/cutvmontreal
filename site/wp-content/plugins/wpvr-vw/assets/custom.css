@@ -1,0 +1,62 @@
+
+.wpvr_widget_wrapper {
+    padding: 0;
+}
+
+.wpvr_widget_video {
+    margin-bottom: 20px;
+}
+
+.wpvr_widget_video_head {
+    position: relative;
+}
+
+.wpvr_widget_video_thumb {
+    max-height: 150px;
+    overflow: hidden;
+
+}
+
+.wpvr_widget_video_thumb img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.wpvr_widget_video_duration {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 10px;
+    color: #FFF;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.wpvr_widget_video_views {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    color: #FFF;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.wpvr_widget_video_play {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.1) url(play.png) no-repeat center center;
+}
+.wpvr_widget_video_play:hover{
+    background: transparent url(play.png) no-repeat center center;
+}
+.wpvr_widget_video_title {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Open Sans';
+    line-height: 17px;
+    margin-top: 8px;
+}
+
+.wpvr_widget_video_excerpt {
+    color: #666;
+}

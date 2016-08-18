@@ -1,0 +1,2617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Snaptube v2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-07-30 01:05+0300\n"
+"Last-Translator: Cohhe <support@cohhe.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vh
+#: functions.php:471
+msgid "Suggestions"
+msgstr "Предложения"
+
+# @ vh
+#: archive.php:32
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+# @ vh
+#: archive.php:34
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+# @ vh
+#: archive.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Архивы за год: %s"
+
+# @ vh
+#: archive.php:39
+msgid "User videos"
+msgstr "Видео пользователя"
+
+# @ vh
+#: archive.php:41
+msgid "Blog Archives"
+msgstr "Архивы блога"
+
+# @ vh
+#: archive.php:56
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Упс, но мы не нашли ничего. Попробуйте сделать поиск еще раз."
+
+# @ vh
+#: buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Название группы (обязательно)"
+
+# @ vh
+#: buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Описание группы (обязательно)"
+
+# @ vh
+#: buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Отправить уведомление об изменениях членам группы по email"
+
+# @ vh
+#: buddypress/groups/single/admin.php:32 buddypress/groups/single/admin.php:117
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+# @ vh
+#: buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Включить дискуссии на форуме"
+
+# @ vh
+#: buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Параметры конфиденциальности"
+
+# @ vh
+#: buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Это публичная группа"
+
+# @ vh
+#: buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Любой пользователь может вступить в эту группу."
+
+# @ vh
+#: buddypress/groups/single/admin.php:64 buddypress/groups/single/admin.php:74
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "Это группа будет выводится в каталоге групп и в результатах поиска."
+
+# @ vh
+#: buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "Любая активность в группе будет видна для всех пользователей."
+
+# @ vh
+#: buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Это приавтная группа"
+
+# @ vh
+#: buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "В группу могут встпутить только те пользователи, которые приобрели подписку."
+
+# @ vh
+#: buddypress/groups/single/admin.php:75 buddypress/groups/single/admin.php:85
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Активность в группе будет доступна только для челонов группы."
+
+# @ vh
+#: buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Это скрытая группа."
+
+# @ vh
+#: buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Вступить в группу могут только пользователи, которых пригласили."
+
+# @ vh
+#: buddypress/groups/single/admin.php:84
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Это группа не будет выводиться в результатх поиска и каталоге групп."
+
+# @ vh
+#: buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Группа приглашений"
+
+# @ vh
+#: buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Какие члены группы могут приглашать других пользователей?"
+
+# @ vh
+#: buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Все пользователи группы"
+
+# @ vh
+#: buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Группа админов и модераторов"
+
+# @ vh
+#: buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Группа админов"
+
+# @ vh
+#: buddypress/groups/single/admin.php:127
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "Загрузите изображения для использования в качестве аватара для этой группы. Изображение будет показано на главной странице группы, и в результатах поиска."
+
+# @ vh
+#: buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+# @ vh
+#: buddypress/groups/single/admin.php:137
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "Если вы хотите, удалить существующий аватар, но не загружать новый, пожалуйста, используйте кнопку удаления аватара."
+
+# @ vh
+#: buddypress/groups/single/admin.php:139
+msgid "Delete Avatar"
+msgstr "Удалить аватар"
+
+# @ vh
+#: buddypress/groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr "Обрезать аватар"
+
+# @ vh
+#: buddypress/groups/single/admin.php:151
+msgid "Avatar to crop"
+msgstr "Аватар для редактирования"
+
+# @ vh
+#: buddypress/groups/single/admin.php:154
+msgid "Avatar preview"
+msgstr "Предпросмотр аватара"
+
+# @ vh
+#: buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr "Обрезать изображение"
+
+# @ vh
+#: buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Администраторы"
+
+# @ vh
+#: buddypress/groups/single/admin.php:185
+#: buddypress/groups/single/admin.php:212 functions.php:910 functions.php:940
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Картина профиля %s"
+
+# @ vh
+#: buddypress/groups/single/admin.php:190
+#: buddypress/groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr "Разжаловать"
+
+# @ vh
+#: buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Модераторы"
+
+# @ vh
+#: buddypress/groups/single/admin.php:216
+#: buddypress/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "Повысить до Администратора"
+
+# @ vh
+#: buddypress/groups/single/admin.php:231
+msgid "Members"
+msgstr "Пользователи"
+
+# @ vh
+#: buddypress/groups/single/admin.php:260
+msgid "(banned)"
+msgstr "(заблокирован)"
+
+# @ vh
+#: buddypress/groups/single/admin.php:266
+msgid "Unban this member"
+msgstr "Разблокировать пользователя"
+
+# @ vh
+#: buddypress/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "Удалить бан"
+
+# @ vh
+#: buddypress/groups/single/admin.php:270
+msgid "Kick and ban this member"
+msgstr "Удалить и заблокировать пользователя"
+
+# @ vh
+#: buddypress/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "Удалить &amp; Заблокировать"
+
+# @ vh
+#: buddypress/groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr "Повысить до модератора"
+
+# @ vh
+#: buddypress/groups/single/admin.php:276
+msgid "Remove this member"
+msgstr "Удалить пользователя"
+
+# @ vh
+#: buddypress/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "Удалить из группы"
+
+# @ vh
+#: buddypress/groups/single/admin.php:290
+msgid "This group has no members."
+msgstr "В группе нет подписчиков."
+
+# @ vh
+#: buddypress/groups/single/admin.php:324
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "ВНИМАНИЕ: Удаление этой группы удалит все содержимое, связанное с ним. Пожалуйста, будьте осторожны с этой опцией."
+
+# @ vh
+#: buddypress/groups/single/admin.php:327
+msgid "I understand the consequences of deleting this group."
+msgstr "Я понимаю последствия удаления этой группы."
+
+# @ vh
+#: buddypress/groups/single/admin.php:332
+msgid "Delete Group"
+msgstr "Удалить группу"
+
+# @ vh
+#: comments.php:17
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Эта запись защищена паролем. Введите пароль, чтобы просматривать комментарии."
+
+# @ vh
+#: comments.php:32
+#, php-format
+msgid "1 comment"
+msgid_plural "<span>%1$s</span> comments"
+msgstr[0] "1 комментарий"
+msgstr[1] "<span>%1$s</span> комментарий(ев)"
+
+# @ vh
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ vh
+#: comments.php:50
+msgid " Older Comments"
+msgstr " Старые комментарии"
+
+# @ vh
+#: comments.php:51
+msgid "Newer Comments "
+msgstr "Свежие комменатрии "
+
+# @ vh
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Закрытые комментарии."
+
+# @ vh
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:48 content-single.php:60 content-video.php:48
+#: content-video.php:60 loop.php:61 loop.php:73
+msgid ", "
+msgstr ", "
+
+# @ vh
+#: content-single.php:53 content-single.php:66 content-video.php:53
+#: content-video.php:69 loop.php:66 loop.php:82
+#, php-format
+msgid "<span class=\"%1$s\"></span> %2$s"
+msgstr "<span class=\"%1$s\"></span> %2$s"
+
+# @ vh
+#: content-single.php:181 content-video.php:177 functions.php:850
+#: functions.php:1180 loop-standard.php:144 loop-standard.php:257
+#: vc_templates/post_block/_item.php:109
+msgid "Read more"
+msgstr "Подробнее"
+
+# @ vh
+#: content-single.php:182 content-video.php:178
+msgid "Pages:"
+msgstr "Страниц:"
+
+# @ vh
+#: content-single.php:199 content-video.php:195
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ vh
+#: content-single.php:204 content-video.php:200
+msgid "View all posts"
+msgstr "Смотреть все публикации"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:105
+msgid "(Invalid)"
+msgstr "(ошибка)"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:110
+msgid "(Pending)"
+msgstr "(В ожидании)"
+
+# @ default
+#: functions/admin/menu-custom-field.php:134
+msgid "Move up"
+msgstr "Вверх"
+
+# @ default
+#: functions/admin/menu-custom-field.php:147
+msgid "Move down"
+msgstr "Вниз"
+
+# @ default
+# @ vh
+#: functions/admin/menu-custom-field.php:149
+#: functions/admin/menu-custom-field.php:151
+msgid "Edit Menu Item"
+msgstr "Редактировать меню"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:160
+msgid "URL"
+msgstr "URL"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:167
+msgid "Navigation Label"
+msgstr "Название поля навигации"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:173
+msgid "Title Attribute"
+msgstr "Название атрибута"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:180
+msgid "Open link in a new window/tab"
+msgstr "Открыть ссылку в новом окне/вкладке"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:185
+msgid "CSS Classes (optional)"
+msgstr "CSS Класс (опция)"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:191
+msgid "Link Relationship (XFN)"
+msgstr "Связь ссылки (XFN)"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:197
+msgid "Description"
+msgstr "Описание"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:199
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "Описание будет отображаться в меню, если текущая тема поддерживает его."
+
+# @ vh
+#: functions/admin/menu-custom-field.php:207
+msgid "Menu icon"
+msgstr "Иконка меню"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:290
+msgid "Original: "
+msgstr "Оригинал: "
+
+# @ vh
+#: functions/admin/menu-custom-field.php:303
+#: functions/admin/slt-file-select.php:80
+msgid "Remove"
+msgstr "Удалить"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:304
+msgid "Cancel"
+msgstr "Отмена"
+
+# @ vh
+#: functions/admin/menu-custom-field.php:430
+msgid "Back"
+msgstr "Обратно"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:8
+msgid "Google Map"
+msgstr "Google Карта"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:15
+msgid "Address"
+msgstr "Адрес"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:20
+msgid "Phone"
+msgstr "Мобильный"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:25 functions.php:1795
+msgid "Email"
+msgstr "Email"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:30
+msgid "Text"
+msgstr "Текст"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:35
+msgid "Latitude"
+msgstr "Широта"
+
+# @ vh
+#: functions/admin/metaboxes/contact_map.php:40
+msgid "Longitude"
+msgstr "Долгота"
+
+# @ vh
+#: functions/admin/metaboxes/layouts.php:8
+msgid "Layouts"
+msgstr "Макеты"
+
+# @ vh
+#: functions/admin/metaboxes/layouts.php:15
+msgid "Layout type"
+msgstr "Тип макета"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:24
+#: functions/widgets/googlemap.php:103
+msgid "Address:"
+msgstr "Адрес:"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:27
+msgid "Phone:"
+msgstr "Мобильный:"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:30
+msgid "Email:"
+msgstr "Email:"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:33
+msgid "Text:"
+msgstr "Текст:"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:36
+#: functions/widgets/googlemap.php:109
+msgid "Latitude:"
+msgstr "Широта:"
+
+# @ vh
+#: functions/admin/metaboxes/templates/contact_map.php:39
+#: functions/widgets/googlemap.php:114
+msgid "Longitude:"
+msgstr "Долгота:"
+
+# @ default
+#: functions/admin/slt-file-select.php:36
+msgid "Hi there! I'm just a plugin, not much I can do when called directly."
+msgstr "Привет! Я просто плагин, не так много я могу сделать, когда вызывается непосредственно."
+
+# @ master
+#: functions/admin/slt-file-select.php:48
+msgid "Select"
+msgstr "Выбрать"
+
+# @ wp-pagenavi
+#: functions/global/wp_pagenavi/wp-pagenavi.php:173
+#: functions/global/wp_pagenavi/wp-pagenavi.php:176
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ wp-pagenavi
+#: functions/global/wp_pagenavi/wp-pagenavi.php:174
+#: functions/global/wp_pagenavi/wp-pagenavi.php:175
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ wp-pagenavi
+#: functions/global/wp_pagenavi/wp-pagenavi.php:177
+#: functions/global/wp_pagenavi/wp-pagenavi.php:178
+msgid "..."
+msgstr "..."
+
+# @ wordpress-importer
+#: functions/installer/importer/parsers.php:48
+#: functions/installer/importer/parsers.php:80
+#: functions/installer/importer/parsers.php:88
+msgid "There was an error when reading this WXR file"
+msgstr "Возникла ошибка при чтении файла WXR"
+
+# @ wordpress-importer
+#: functions/installer/importer/parsers.php:49
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Подробности приведены выше. Попробуйте импорт через другой парсер..."
+
+# @ wordpress-importer
+#: functions/installer/importer/parsers.php:92
+#: functions/installer/importer/parsers.php:97
+#: functions/installer/importer/parsers.php:287
+#: functions/installer/importer/parsers.php:476
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Файл не является WXR"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:27
+msgid "Import file could not be found. Please try again."
+msgstr "Импортируемый файл не может быть найден. Пожалуйста, попробуйте еще раз."
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:41
+msgid "Import data could not be read. Please try a different file."
+msgstr "Импорт данных не может быть прочитан. Пожалуйста, попробуйте другой файл."
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:79
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr "Боковая панель не существует в теме ( используется неактивная панель)"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:101
+msgid "Site does not support widget"
+msgstr "Сайт не поддерживает виджет"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:121
+msgid "Widget already exists"
+msgstr "Виджет уже существует"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:170
+msgid "Imported"
+msgstr "Импортирован"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:173
+msgid "Imported to Inactive"
+msgstr "Импортирован в неактивные"
+
+# @ widget-importer-exporter
+#: functions/installer/importer/widgets-importer.php:180
+msgid "No Title"
+msgstr "Без названия"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:134
+#: functions/installer/importer/wordpress-importer.php:143
+#: functions/installer/importer/wordpress-importer.php:194
+#: functions/installer/importer/wordpress-importer.php:198
+#: functions/installer/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Извините, возникла ошибка."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, пожалуйста, попробуйте еще раз."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr "Все сделано."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Веселиться!"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забывайте обновлять пароли и роли импортированных пользователей."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:199
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "“Экспортируемый файл не найден <code>%s</code>. Вполне вероятно, что проблема разрешений файла."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:215
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Файл WXR (версия %s) не поддерживается в данной версии парсера. Пожалуйста обновите его."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:240
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Не удалось импортировать автора %s. Публикации автора будут отнесены к текущему пользователю."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Объеденить авторов"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Чтобы сделать простое редактирование и сохранение импортированного контента, вы можете переназначить автора. Например, вы можете импортировать все записи как <code>admin</code>s записи."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:269
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Если новый пользователь создан в WordPress, новый пароль будет сгенерирован автоматически и новый пользователь user&#8217;s получит роль %s."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Импорт вложения"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Загрузить и импортировать файлы"
+
+# @ wordpress-importer
+# @ vh
+#: functions/installer/importer/wordpress-importer.php:286
+#: functions/widgets/contactform.php:53
+msgid "Submit"
+msgstr "Отправить"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Автор импорта:"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "или зарегистрировать нового пользователя:"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "в качестве нового пользователя:"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "закрепить публикацию за текущим пользователем:"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "или закрепить публикацию за существующим пользователем:"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Выберите -"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:374
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Не удалось создать нового пользователя для %s. Его публикации будут закреплены за текущем пользователем."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Ошибка импорта категории %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Ошибка импорта тегов публикации %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:511
+#: functions/installer/importer/wordpress-importer.php:655
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Ошибка импорта %s %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:540
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Ошибка импорта &#8220;%s&#8221;: Выбран неверный тип публикации %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:562
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:621
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Ошибка импорта %s &#8220;%s&#8221;"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:786
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Пункт меню пропускаются из-за отсутствующего меню пули"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:793
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Пункт меню пропускаются из-за отсутствующего меню пули: %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:856
+msgid "Fetching attachments is not enabled"
+msgstr "Опция извлечения вложения не включена"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:869
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:913
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не отвечает"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:919
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер возвращает ошибук: %1$d %2$s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:926
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет некорректный размер"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:931
+msgid "Zero size file downloaded"
+msgstr "Нулевой размер файла загружается"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:937
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл имеет слишком большой размер %s"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:1036
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:1043
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Доступна новая версия импортера. Пожалуйста, обновите до версии %s, чтобы обеспечить совместимость с новыми файлами."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:1058
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Привет! Загрузите в свои WordPress расширенный RSS файл (WXR), и сможете импортировать сообщения, страницы, комментарии, категории и теги."
+
+# @ wordpress-importer
+#: functions/installer/importer/wordpress-importer.php:1059
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Выберите WXR (.xml) файл для загрузки, затем нажмите кнопку Загрузить файл и Импортировать."
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:305
+#: functions.php:2182
+msgid "Install Required Plugins"
+msgstr "Установите необходимые Плагины"
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:306
+#: functions.php:2183
+msgid "Install Plugins"
+msgstr "Установите Плагины"
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:307
+#: functions.php:2184
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка Плагина: %s"
+
+# @ vh
+#: functions.php:2188
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Извините, но вы не имеете необходимых разрешений для установки плагина %s. Для помощи в получении плагина, обратитесь к администратору этого сайта."
+msgstr[1] "Извините, но вы не имеете необходимых разрешений для установки плагинов %s. Для помощи в получении плагинов, обратитесь к администратору этого сайта."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:340
+#: functions.php:2189
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий необходимый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие необходимые плагины в настоящее время неактивны: %1$s."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:345
+#: functions.php:2190
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+# @ vh
+#: functions.php:2191
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Извините, но вы не имеете разрешения активировать плагин %s . Для помощи в активации плагина, свяжитесь с администратором этого сайта."
+msgstr[1] "Извините, но вы не имеете разрешения активировать плагины %s . Для помощи в активации плагинов, свяжитесь с администратором этого сайта."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:325
+#: functions.php:2192
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин должен быть обновлен до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+msgstr[1] "Эти плагины должны быть обновлены до последней версии, чтобы обеспечить максимальную совместимость с этой темой: %1$s."
+
+# @ vh
+#: functions.php:2193
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Извините, но вы не имеете разрешения для обновления плагина %s. Для получения помощи в обновлении плагина, обратитесь к администратору этого сайта."
+msgstr[1] "Извините, но вы не имеете разрешения для обновления плагинов %s. Для получения помощи в обновлении плагинов, обратитесь к администратору этого сайта."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:355
+#: functions.php:2194
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+
+# @ vh
+#. gettext fix: duplicate plural forms found, that may be ambiguous! Please check the code!
+#: functions/tgm-activation/class-tgm-plugin-activation.php:360
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugin"
+msgstr[0] "Начните обновление плагина"
+msgstr[1] "Начните обновление плагинов"
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:365
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начните активацию плагина"
+msgstr[1] "Начните активацию плагинов"
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:370
+#: functions.php:2196
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке обязательных плагинов"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:371
+msgid "Return to the dashboard"
+msgstr "Вернуться к главной панели"
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:372
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3114
+#: functions.php:2197
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:376
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:377
+msgid "Dismiss this notice"
+msgstr "Закрыть уведомление"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2263
+msgid "Pre-Packaged"
+msgstr "Пре-распакованные"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2255
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2235
+msgid "Required"
+msgstr "Обязательно"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2238
+msgid "Recommended"
+msgstr "Рекомендуемые"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2282
+msgid "Not Installed"
+msgstr "Не установлен"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2286
+msgid "Installed But Not Activated"
+msgstr "Установлен но не активирован"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2288
+msgid "Active"
+msgstr "Активный"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2706
+msgid "Install"
+msgstr "Установка"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2715
+msgid "Activate"
+msgstr "Активация"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2530
+msgid "Plugin"
+msgstr "Плагин"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2531
+msgid "Source"
+msgstr "Ресурс"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2532
+msgid "Type"
+msgstr "Тип"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2537
+msgid "Status"
+msgstr "Статус"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2712
+msgid "Update"
+msgstr "Обновление"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2785
+msgid "No plugins are available to be installed at this time."
+msgstr "Нет плагинов доступных для установки."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be activated at this time."
+msgstr "Нет плагинов доступных для активации."
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2934
+#: functions/tgm-activation/class-tgm-plugin-activation.php:373
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Плагин был успешно активирован:"
+msgstr[1] "Плагины был успешно активирован:"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3113
+msgid "Plugin activation failed."
+msgstr "Ошибка активации плагина."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3461
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки и активации запущен. Это может занять некоторое время, пожалуйста подождите."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3456
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3462
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3462
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3469
+msgid "Show Details"
+msgstr "Открыть детали."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3462
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3469
+msgid "Hide Details"
+msgstr "Закрыть детали."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3463
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были успешно завершены."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3464
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3468
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Процесс установки запущен. Это может занять некоторое время, пожалуйста подождите."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3457
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Ошибка установки %1$s."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3469
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3470
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3471
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+# @ vh
+#: functions/visual_composer_extended.php:32
+msgid "Row style"
+msgstr "Строка стиля"
+
+# @ vh
+#: functions/visual_composer_extended.php:36
+#: functions/visual_composer_extended.php:193
+#: functions/visual_composer_extended.php:253
+#: functions/visual_composer_extended.php:349
+msgid "Default"
+msgstr "По умолчанию"
+
+# @ vh
+#: functions/visual_composer_extended.php:37
+msgid "Full Width - White"
+msgstr "Вся ширина - Белый"
+
+# @ vh
+#: functions/visual_composer_extended.php:44
+msgid "Gap"
+msgstr "Промежуток"
+
+# @ vh
+#: functions/visual_composer_extended.php:48
+#: functions/visual_composer_extended.php:176
+#: functions/visual_composer_extended.php:202
+#: functions/visual_composer_extended.php:266
+#: functions/visual_composer_extended.php:333
+#: functions/visual_composer_extended.php:343
+#: functions/visual_composer_extended.php:358
+#: functions/visual_composer_extended.php:404
+#: functions/visual_composer_extended.php:415
+#: functions/visual_composer_extended.php:426
+msgid "by Snaptube"
+msgstr "by Snaptube"
+
+# @ vh
+#: functions/visual_composer_extended.php:53
+msgid "Gap height"
+msgstr "Промежуток высоты"
+
+# @ vh
+#: functions/visual_composer_extended.php:57
+msgid "In pixels"
+msgstr "в пикселях"
+
+# @ vh
+#: functions/visual_composer_extended.php:63
+#: functions/visual_composer_extended.php:70
+msgid "Red"
+msgstr "Красный"
+
+# @ vh
+#: functions/visual_composer_extended.php:64
+#: functions/visual_composer_extended.php:70
+msgid "Blue"
+msgstr "Синий"
+
+# @ vh
+#: functions/visual_composer_extended.php:65
+#: functions/visual_composer_extended.php:70
+msgid "Yellow"
+msgstr "Желтый"
+
+# @ vh
+#: functions/visual_composer_extended.php:66
+#: functions/visual_composer_extended.php:70
+msgid "Green"
+msgstr "Зеленый"
+
+# @ vh
+#: functions/visual_composer_extended.php:70
+msgid "Transparent"
+msgstr "Прозрачный"
+
+# @ vh
+#: functions/visual_composer_extended.php:70
+msgid "Light Blue"
+msgstr "Светло-синий"
+
+# @ vh
+#: functions/visual_composer_extended.php:70
+msgid "Inverse"
+msgstr "Инверсия"
+
+# @ vh
+#: functions/visual_composer_extended.php:73
+msgid "None"
+msgstr "Ни один"
+
+# @ vh
+#: functions/visual_composer_extended.php:74
+msgid "Address book icon"
+msgstr "Иконка адресной книги"
+
+# @ vh
+#: functions/visual_composer_extended.php:75
+msgid "Alarm clock icon"
+msgstr "Иконка часов"
+
+# @ vh
+#: functions/visual_composer_extended.php:76
+msgid "Anchor icon"
+msgstr "Иконка якоря"
+
+# @ vh
+#: functions/visual_composer_extended.php:77
+msgid "Application Image icon"
+msgstr "Иконка приложения"
+
+# @ vh
+#: functions/visual_composer_extended.php:78
+msgid "Arrow icon"
+msgstr "Значок стрелки"
+
+# @ vh
+#: functions/visual_composer_extended.php:79
+msgid "Asterisk icon"
+msgstr "Значок звездочки"
+
+# @ vh
+#: functions/visual_composer_extended.php:80
+msgid "Hammer icon"
+msgstr "Значок молота"
+
+# @ vh
+#: functions/visual_composer_extended.php:81
+msgid "Balloon icon"
+msgstr "Значок шара"
+
+# @ vh
+#: functions/visual_composer_extended.php:82
+msgid "Balloon Buzz icon"
+msgstr "Значок воздушного шара"
+
+# @ vh
+#: functions/visual_composer_extended.php:83
+msgid "Balloon Facebook icon"
+msgstr "Значок Facebook"
+
+# @ vh
+#: functions/visual_composer_extended.php:84
+msgid "Balloon Twitter icon"
+msgstr "Значок Twitter"
+
+# @ vh
+#: functions/visual_composer_extended.php:85
+msgid "Battery icon"
+msgstr "Значок акаумулятора"
+
+# @ vh
+#: functions/visual_composer_extended.php:86
+msgid "Binocular icon"
+msgstr "Значок бинокля"
+
+# @ vh
+#: functions/visual_composer_extended.php:87
+msgid "Document Excel icon"
+msgstr "Иконка документа Excel"
+
+# @ vh
+#: functions/visual_composer_extended.php:88
+msgid "Document Image icon"
+msgstr "Иконка картинки"
+
+# @ vh
+#: functions/visual_composer_extended.php:89
+msgid "Document Music icon"
+msgstr "Иконка документа Музыка"
+
+# @ vh
+#: functions/visual_composer_extended.php:90
+msgid "Document Office icon"
+msgstr "Иконка Документа Офиса"
+
+# @ vh
+#: functions/visual_composer_extended.php:91
+msgid "Document PDF icon"
+msgstr "Иконка документа PDF"
+
+# @ vh
+#: functions/visual_composer_extended.php:92
+msgid "Document Powerpoint icon"
+msgstr "Иконка документа PowerPoint"
+
+# @ vh
+#: functions/visual_composer_extended.php:93
+msgid "Document Word icon"
+msgstr "Иконка документа Word"
+
+# @ vh
+#: functions/visual_composer_extended.php:94
+msgid "Bookmark icon"
+msgstr "Иконка закладки"
+
+# @ vh
+#: functions/visual_composer_extended.php:95
+msgid "Camcorder icon"
+msgstr "Иконка видеокамеры"
+
+# @ vh
+#: functions/visual_composer_extended.php:96
+msgid "Camera icon"
+msgstr "Иконка камеры"
+
+# @ vh
+#: functions/visual_composer_extended.php:97
+msgid "Chart icon"
+msgstr "Иконка диаграммы"
+
+# @ vh
+#: functions/visual_composer_extended.php:98
+msgid "Chart pie icon"
+msgstr "Иконка диаграммы 2"
+
+# @ vh
+#: functions/visual_composer_extended.php:99
+msgid "Clock icon"
+msgstr "Иконка часов"
+
+# @ vh
+#: functions/visual_composer_extended.php:100
+msgid "Fire icon"
+msgstr "Иконка огня"
+
+# @ vh
+#: functions/visual_composer_extended.php:101
+msgid "Heart icon"
+msgstr "Иконка сердца"
+
+# @ vh
+#: functions/visual_composer_extended.php:102
+msgid "Mail icon"
+msgstr "Иконка почты"
+
+# @ vh
+#: functions/visual_composer_extended.php:103
+msgid "Play icon"
+msgstr "Иконка Запуск"
+
+# @ vh
+#: functions/visual_composer_extended.php:104
+msgid "Shield icon"
+msgstr "Иконка экрана"
+
+# @ vh
+#: functions/visual_composer_extended.php:105
+msgid "Video icon"
+msgstr "Иконка видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:108
+msgid "Same window"
+msgstr "То же самое окно"
+
+# @ vh
+#: functions/visual_composer_extended.php:108
+msgid "New window"
+msgstr "Новое окно"
+
+# @ vh
+#: functions/visual_composer_extended.php:109
+msgid "Regular size"
+msgstr "Регулярный размер"
+
+# @ vh
+#: functions/visual_composer_extended.php:109
+msgid "Large"
+msgstr "Большой"
+
+# @ vh
+#: functions/visual_composer_extended.php:109
+msgid "Small"
+msgstr "Маленький"
+
+# @ vh
+#: functions/visual_composer_extended.php:109
+msgid "Mini"
+msgstr "Мини"
+
+# @ vh
+#: functions/visual_composer_extended.php:112
+msgid "Button"
+msgstr "Кнопка"
+
+# @ vh
+#: functions/visual_composer_extended.php:115
+msgid "Content"
+msgstr "Контент"
+
+# @ vh
+#: functions/visual_composer_extended.php:119
+#: functions/visual_composer_extended.php:123
+msgid "Text on the button"
+msgstr "Текст кнопки"
+
+# @ vh
+#: functions/visual_composer_extended.php:124
+msgid "Text on the button."
+msgstr "Текст кнопки."
+
+# @ vh
+#: functions/visual_composer_extended.php:128
+msgid "URL (Link)"
+msgstr "URL (Ссылка)"
+
+# @ vh
+#: functions/visual_composer_extended.php:130
+msgid "Button link."
+msgstr "Ссылка кнопки."
+
+# @ vh
+#: functions/visual_composer_extended.php:134
+msgid "Target"
+msgstr "Цель"
+
+# @ vh
+#: functions/visual_composer_extended.php:141
+msgid "Color"
+msgstr "Цвет"
+
+# @ vh
+#: functions/visual_composer_extended.php:144
+msgid "Button color."
+msgstr "Цвет кнопки."
+
+# @ vh
+#: functions/visual_composer_extended.php:148
+msgid "Icon"
+msgstr "Иконка"
+
+# @ vh
+#: functions/visual_composer_extended.php:151
+msgid "Button icon."
+msgstr "Иконка кнопки."
+
+# @ vh
+#: functions/visual_composer_extended.php:155
+msgid "Size"
+msgstr "Размер"
+
+# @ vh
+#: functions/visual_composer_extended.php:158
+msgid "Button size."
+msgstr "Размер кнопки."
+
+# @ vh
+#: functions/visual_composer_extended.php:162
+msgid "Extra class name"
+msgstr "Дополнительное имя класса"
+
+# @ vh
+#: functions/visual_composer_extended.php:164
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr "Если вы желаете использоать определенный элемент в разных стилях, пожалуйста добавьте новое имя класса в css файл."
+
+# @ vh
+#: functions/visual_composer_extended.php:172
+msgid "Featured videos"
+msgstr "Популярное видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:183
+msgid "Number of featured videos"
+msgstr "Кол-во популярного видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:186
+msgid "How many featured videos to show. Note: maximum of 5"
+msgstr "Сколько популярного видео показано? Заметка: максимум 5"
+
+# @ vh
+#: functions/visual_composer_extended.php:194
+#: functions/visual_composer_extended.php:350
+msgid "Video thumbnails"
+msgstr "Видео thumbnails"
+
+# @ vh
+#: functions/visual_composer_extended.php:195
+#: functions/visual_composer_extended.php:254
+#: functions/visual_composer_extended.php:351
+msgid "Video list"
+msgstr "Каталог видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:198
+msgid "Video module"
+msgstr "Модуль видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:209
+#: functions/visual_composer_extended.php:273
+#: functions/visual_composer_extended.php:365
+msgid "Title"
+msgstr "Заголовок"
+
+# @ vh
+#: functions/visual_composer_extended.php:212
+#: functions/visual_composer_extended.php:276
+#: functions/visual_composer_extended.php:368
+msgid "Enter title for this module."
+msgstr "Укажите заголовок модуля."
+
+# @ vh
+#: functions/visual_composer_extended.php:218
+#: functions/visual_composer_extended.php:282
+msgid "Category ID"
+msgstr "ID категории"
+
+# @ vh
+#: functions/visual_composer_extended.php:221
+#: functions/visual_composer_extended.php:285
+msgid "Which category to show, leave it empty for first category. Available <a href=\"admin.php?page=playlist\">here</a>."
+msgstr "Какую категорию показать? Оставьте пустой первую категорию. Доступно <a href=\"admin.php?page=playlist\">здесь</a>."
+
+# @ vh
+#: functions/visual_composer_extended.php:227
+#: functions/visual_composer_extended.php:291
+#: functions/visual_composer_extended.php:374
+msgid "Displayed video count"
+msgstr "Кол-во отображаемого видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:230
+#: functions/visual_composer_extended.php:294
+#: functions/visual_composer_extended.php:377
+msgid "Number of videos to display, leave empty for no limitation."
+msgstr "КОл-во отображаемого видео, оставьте пустым без ограничений."
+
+# @ vh
+#: functions/visual_composer_extended.php:236
+msgid "Exclude"
+msgstr "Исключить"
+
+# @ default
+#: functions/visual_composer_extended.php:239
+msgid "Do you want to exclude particular videos? You can specify multiple ID's by separating them by comma. Example: 173,264,343,476"
+msgstr "Исключить определенное видео? Вы можете указать несколько идентификаторов, разделяя их запятыми. Пример: 173,264,343,476"
+
+# @ vh
+#: functions/visual_composer_extended.php:243
+#: functions/visual_composer_extended.php:298
+#: functions/visual_composer_extended.php:390
+msgid "Video module style"
+msgstr "Стиль модуля видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:246
+#: functions/visual_composer_extended.php:301
+#: functions/visual_composer_extended.php:393
+msgid "Select video module style."
+msgstr "Выберите моудль стиля для видео."
+
+# @ vh
+#: functions/visual_composer_extended.php:257
+msgid "1"
+msgstr "1"
+
+# @ vh
+#: functions/visual_composer_extended.php:258
+msgid "2"
+msgstr "2"
+
+# @ vh
+#: functions/visual_composer_extended.php:259
+msgid "3"
+msgstr "3"
+
+# @ vh
+#: functions/visual_composer_extended.php:262
+msgid "Video carousel"
+msgstr "Видео карусель"
+
+# @ vh
+#: functions/visual_composer_extended.php:305
+msgid "Carousel autoplay"
+msgstr "Автозапуск карусели"
+
+# @ vh
+#: functions/visual_composer_extended.php:308
+msgid "Will carousel autoplay when page loads. You can use true/false/time in ms"
+msgstr "Карусель будет автоматически запущена при загрузке страницы. Выберите режим: да/нет/время в млс."
+
+# @ vh
+#: functions/visual_composer_extended.php:312
+msgid "Carousel speed"
+msgstr "Скорость прокрутки карусели"
+
+# @ vh
+#: functions/visual_composer_extended.php:315
+msgid "Carousel animation speed, default 2000ms"
+msgstr "Скокость анимации карусели, по умолчанию 2000млс"
+
+# @ vh
+#: functions/visual_composer_extended.php:319
+msgid "Rows"
+msgstr "Строк"
+
+# @ vh
+#: functions/visual_composer_extended.php:322
+msgid "Select video module rows count."
+msgstr "Выберите кол-во строк для модуля видео."
+
+# @ vh
+#: functions/visual_composer_extended.php:329
+msgid "Video category"
+msgstr "Категории видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:339
+msgid "Video home"
+msgstr "Домашнее видео"
+
+# @ vh
+#: functions/widgets/advertisement.php:13
+msgid "Displays advertisement"
+msgstr "Отображение рекламы"
+
+# @ vh
+#: functions/widgets/advertisement.php:15
+msgid "Snaptube - Advertisement"
+msgstr "Snaptube - Реклама"
+
+# @ vh
+#: functions/widgets/advertisement.php:43
+#: functions/widgets/advertisement.php:44
+msgid "Advertisement"
+msgstr "Реклама"
+
+# @ vh
+#: functions/widgets/advertisement.php:73 functions/widgets/contactform.php:75
+#: functions/widgets/contusBannerSlideshow.php:375
+#: functions/widgets/googlemap.php:98
+#: functions/widgets/recent-posts-plus.php:343
+#: functions/widgets/social_links.php:114
+msgid "Title:"
+msgstr "Заголовок"
+
+# @ vh
+#: functions/widgets/advertisement.php:77
+msgid "How many ads to display?"
+msgstr "Кол-во отображаемой рекламы?"
+
+# @ vh
+#: functions/widgets/advertisement.php:93
+msgid "Image URL:"
+msgstr "Ссылка изображения:"
+
+# @ vh
+#: functions/widgets/advertisement.php:97
+msgid "Link:"
+msgstr "Ссылка:"
+
+# @ vh
+#: functions/widgets/advertisement.php:101
+msgid "Example: <code>http://www.example.com</code>"
+msgstr "Пример: <code>http://www.example.com</code>"
+
+# @ vh
+#: functions/widgets/contactform.php:10
+msgid "Displays a contact form."
+msgstr "Отображение контактной формы."
+
+# @ vh
+#: functions/widgets/contactform.php:12
+msgid "Snaptube - Contact Form"
+msgstr "Snaptube - Контактная форма"
+
+# @ vh
+#: functions/widgets/contactform.php:21
+msgid "Email Us"
+msgstr "Наш Email"
+
+# @ vh
+#: functions/widgets/contactform.php:36
+msgid "Your message was successfully sent. <strong>Thank You!</strong>"
+msgstr "Ваше сообщение успешно отправлено. <strong>Спасибо!</strong>"
+
+# @ vh
+#: functions/widgets/contactform.php:39
+msgid "An error occurred. Try again later."
+msgstr "Произошла ошибка. Попробуйте снова."
+
+# @ vh
+#: functions/widgets/contactform.php:45
+msgid "Name (required)"
+msgstr "Имя (обязательно)"
+
+# @ vh
+#: functions/widgets/contactform.php:48
+msgid "Email (required)"
+msgstr "Email (обязательно)"
+
+# @ vh
+#: functions/widgets/contactform.php:79
+msgid "Send emails to:"
+msgstr "Отправить email’ы:"
+
+# @ vh
+#: functions/widgets/contusBannerSlideshow.php:379
+msgid "Show:"
+msgstr "Показать:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:37
+msgid "Flickr Images"
+msgstr "Flickr картинки"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:149
+msgid "Fast Flickr Title:"
+msgstr "Короткий Flickr заголовок:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:150
+msgid "Flickr RSS URL or Screen name:"
+msgstr "Flickr RSS URL или имя:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:151
+msgid "Thumbnail, square or medium?"
+msgstr "Миниатюра, квадратная или средняя?"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:160
+msgid "Before item:"
+msgstr "Перед:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:161
+msgid "After item:"
+msgstr "После:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:162
+msgid "Before widget:"
+msgstr "Перед виджетом:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:163
+msgid "After widget:"
+msgstr "После виджета:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:164
+msgid "How many items?"
+msgstr "Кол-во достпуных элементов?"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:165
+msgid "More link anchor text:"
+msgstr "Отобразить всю ссылку:"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:166
+msgid "Filter by tags (comma seperated):"
+msgstr "Фильтр по тегам (запятыми):"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:167
+msgid "Target: _blank"
+msgstr "Тип окна: _blank"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:168
+msgid "Display titles"
+msgstr "Заголовок экрана"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:169
+msgid "Use Thickbox"
+msgstr "Использовать Thickbox"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:170
+msgid "Random pick"
+msgstr "Случайный выбор"
+
+# @ vh
+#: functions/widgets/fast-flickr-widget.php:171
+msgid "Use random tag (needs random pick enable)"
+msgstr "Использовать случайный тег (нужно включить случайный выбор)"
+
+# @ vh
+#: functions/widgets/googlemap.php:11
+msgid "Displays a google map."
+msgstr "Отобразить google карту."
+
+# @ vh
+#: functions/widgets/googlemap.php:13
+msgid "Snaptube - Google map"
+msgstr "Snaptube - Google карта"
+
+# @ vh
+#: functions/widgets/googlemap.php:105
+msgid "Choose an address or latitute and logtitude"
+msgstr "Укажите адрес или долготу и широту"
+
+# @ vh
+#: functions/widgets/googlemap.php:119
+msgid "Zoom level:"
+msgstr "Масштаб:"
+
+# @ vh
+#: functions/widgets/googlemap.php:128
+msgid "Content for the marker:"
+msgstr "Контент маркера:"
+
+# @ vh
+#: functions/widgets/googlemap.php:134
+msgid "Auto popup the info?"
+msgstr "Отображать информацию в pop-up?"
+
+# @ vh
+#: functions/widgets/googlemap.php:138
+msgid "Height:"
+msgstr "Высота:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:70
+msgid "The most recent posts on your site. Includes advanced options."
+msgstr "Самые свежие публикации на вашем сайте. Включает дополнительные опции."
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:72
+msgid "Snaptube - Recent Posts Plus"
+msgstr "Snaptube - Свежие публикации +"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:347
+msgid "Number of posts to show:"
+msgstr "Кол-во отображаемых публикаций:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:354
+msgid "Include post thumbnail"
+msgstr "Отобразить публикацию в миниатюре"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:358
+msgid "Include post excerpt"
+msgstr "Включить отрывок публикации"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:363
+msgid "Show expert options"
+msgstr "Отобразить отрывок опций:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:369
+msgid "Limit post title:"
+msgstr "Ограничьте заголовок публикации:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:377
+msgid "Limit post excerpt:"
+msgstr "Ограничьте отрывок публикации:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:385
+msgid "Limit ellipsis:"
+msgstr "Ограничьте многоточие:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:390
+msgid "Post date format:"
+msgstr "Форма даты публикации:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:396
+msgid "Thumbnail size (WxH):"
+msgstr "Размер миниаютюры (Ш*В):"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:403
+msgid "WP_Query Options"
+msgstr "WP_Query Опции:"
+
+# @ vh
+#: functions/widgets/recent-posts-plus.php:408
+msgid "Widget Output Template"
+msgstr "WP_Query Опции"
+
+# @ vh
+#: functions/widgets/social_links.php:11
+msgid "Link to your RSS feed and social media accounts."
+msgstr "Ссылка на вашу RSS ленту и социальный аккаунты."
+
+# @ vh
+#: functions/widgets/social_links.php:13
+msgid "Snaptube - Social Network links"
+msgstr "Snaptube - Социальные ссылки"
+
+# @ vh
+#: functions/widgets/social_links.php:18
+msgid "Social Media"
+msgstr "Соцмедиа"
+
+# @ vh
+#: functions/widgets/social_links.php:118
+msgid "RSS URL: (leave empty for default feed)"
+msgstr "RSS URL: (оставьте пустым для ленты по умолчанию)"
+
+# @ vh
+#: functions/widgets/social_links.php:122
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:126
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:130
+msgid "Flickr URL:"
+msgstr "Flickr URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:134
+msgid "Youtube URL:"
+msgstr "Youtube URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:138
+msgid "LinkedIn URL:"
+msgstr "LinkedIn URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:142
+msgid "FourSquare URL:"
+msgstr "FourSquare URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:146
+msgid "Delicious URL:"
+msgstr "Delicious URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:150
+msgid "Digg URL:"
+msgstr "Digg URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:154
+msgid "Skype URL:"
+msgstr "Skype URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:158
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:162
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:166
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:170
+msgid "Pintrest URL:"
+msgstr "Pintrest URL:"
+
+# @ vh
+#: functions/widgets/social_links.php:174
+msgid "Google+ URL:"
+msgstr "Google+ URL:"
+
+# @ vh
+#: functions.php:214
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Старые комментарии"
+
+# @ vh
+#: functions.php:239
+msgid "Newer Comments &raquo;"
+msgstr "Новые комментарии &raquo;"
+
+# @ vh
+#: functions.php:250
+msgid "Normal"
+msgstr "Нормальный"
+
+# @ vh
+#: functions.php:260
+msgid "Recent News"
+msgstr "Свежие новости"
+
+# @ vh
+#: functions.php:467
+msgid "Html5 Not support This video Format."
+msgstr "html5 не поддерживает этот видео формат."
+
+# @ vh
+#: functions.php:940
+msgid "Profile picture"
+msgstr "Картинка профиля"
+
+# @ vh
+#: functions.php:1041
+msgid "Sending user info, please wait..."
+msgstr "Отправка данных пользователю, пожалуйста подождите…"
+
+# @ vh
+#: functions.php:1115
+msgid "Wrong username or password."
+msgstr "Ошибка логина или неверный пароль."
+
+# @ vh
+#: functions.php:1117
+msgid "Login successful, redirecting..."
+msgstr "Успешная авторизация, переадресация…"
+
+# @ vh
+#: functions.php:1171
+msgid "No excerpt for this video."
+msgstr "Нет фрагмента для этого видео."
+
+# @ vh
+#: functions.php:1513
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+# @ vh
+#: functions.php:1514
+msgid "Footer Menu"
+msgstr "Footer меню"
+
+# @ vh
+#: functions.php:1710
+#, php-format
+msgid "<span>Posted: </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%4$s</a><span class=\"by-author\"> by <a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span>"
+msgstr "<span>Публикаций: </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\">%4$s</a><span class=\"by-author\"> <a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span>"
+
+# @ vh
+#: functions.php:1716
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все публикации %s"
+
+# @ vh
+#: functions.php:1762
+msgid "Please fill all fields!"
+msgstr "Пожалуйста, заполните все поля!"
+
+# @ vh
+#: functions.php:1791
+msgid "Name"
+msgstr "Имя"
+
+# @ vh
+#: functions.php:1799
+msgid "Website"
+msgstr "Сайт"
+
+# @ vh
+#: functions.php:1824
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ vh
+#: functions.php:1824 functions.php:1850
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ vh
+#: functions.php:1843
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ vh
+#: comments.php:67 functions.php:1848
+msgid "Reply"
+msgstr "Ответить"
+
+# @ vh
+#: functions.php:1963
+msgid "Page"
+msgstr "Страница"
+
+# @ vh
+#: functions.php:1990
+msgid "Color Scheme"
+msgstr "Цвет схемы"
+
+# @ tgmpa
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:308
+#: functions.php:2185
+msgid "Something went wrong with the plugin API."
+msgstr "Что то пошло не так с API плагина."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:310
+#: functions.php:2186
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Шаблон требует плагин: %1$s."
+msgstr[1] "Шаблон требует плагины: %1$s."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:315
+#: functions.php:2187
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Тема рекомендует установку плагина: %1$s."
+msgstr[1] "Тема рекомендует установку плагинов: %1$s."
+
+# @ vh
+#: functions.php:2195
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Активируйте установленный плагин"
+msgstr[1] "Активируйте установленные плагины"
+
+# @ vh
+#: functions.php:2198
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины установлены и активированы успешно. %s"
+
+# @ vh
+#: header.php:113 header.php:117
+msgid "Login"
+msgstr "Авторизация"
+
+# @ vh
+#: header.php:114
+msgid "Username"
+msgstr "Логин"
+
+# @ vh
+#: header.php:115
+msgid "Password"
+msgstr "Пароль"
+
+# @ vh
+#: header.php:119
+msgid "Forgot password"
+msgstr "Восстановить пароль"
+
+# @ vh
+#: index.php:27
+msgid "News"
+msgstr "Новости"
+
+# @ vh
+#: index.php:66
+msgid "Nothing Found!"
+msgstr "Ничего не найдено!"
+
+# @ vh
+#: index.php:73
+msgid "Sorry, nothing found!"
+msgstr "Извините, ничего не найдено!"
+
+# @ vh
+#: loop-standard.php:58 loop-standard.php:75 loop-standard.php:112
+#: loop-standard.php:180 loop-standard.php:236
+#: vc_templates/post_block/_item.php:109
+#, php-format
+msgid "Permalink to %s"
+msgstr "Ссылка на %s"
+
+# @ vh
+#: functions.php:784 loop-standard.php:105 loop-standard.php:229
+#: vc_templates/post_block/_item.php:84
+msgid "by "
+msgstr " "
+
+# @ vh
+#: functions.php:786 loop-standard.php:107 vc_templates/post_block/_item.php:86
+msgid " blog entries"
+msgstr "записи в блоге"
+
+# @ vh
+#: functions.php:787 loop-standard.php:108 loop-standard.php:232
+#: vc_templates/post_block/_item.php:87
+msgid " comments"
+msgstr " комментарий"
+
+# @ vh
+#: loop-standard.php:139
+msgid "No excerpt."
+msgstr "Нет фрагмента."
+
+# @ vh
+#: loop-standard.php:231
+msgid " videos"
+msgstr " видео"
+
+# @ vh
+#: loop-standard.php:248
+msgid "No excerpt for this posting."
+msgstr "Нет миниатюры для этой публикации."
+
+# @ vh
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результат поиска: %s"
+
+# @ vh
+#: search.php:29
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ vh
+#: search.php:58
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, но ничего не соответствует вашим критериям поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+# @ vh
+#: searchform.php:9 searchform.php:31 searchform.php:32
+msgid "Search"
+msgstr "Поиск"
+
+# @ vh
+#: single-videogallery.php:55 single.php:36
+msgid "Blog"
+msgstr "Блог"
+
+# @ vh
+#: template-featured-slider.php:27
+msgid "Featured video"
+msgstr "Рекомендуемое видео"
+
+# @ js_composer
+#: vc_templates/vc_posts_grid.php:129
+msgid "All"
+msgstr "Все"
+
+# @ js_composer
+#: vc_templates/vc_posts_grid.php:161
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+# @ vh
+#: comments.php:70
+msgctxt "noun"
+msgid ""
+msgstr " "
+
+# @ vh
+#: functions/visual_composer_extended.php:354
+msgid "Followed videos"
+msgstr "Подписки на видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:383
+msgid "Count of excluded videos"
+msgstr "Число исключенных видео"
+
+# @ vh
+#: functions/visual_composer_extended.php:386
+msgid "Number of videos to exclude starting with the first one."
+msgstr "Кол-во видео для исключения начиная с первого."
+
+# @ vh
+#: functions.php:1046
+msgid "Follow"
+msgstr "Подписаться"
+
+# @ vh
+#: functions.php:1047
+msgid "Unfollow"
+msgstr "Отписаться"
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:320
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Извините, но у вас нет прав на установку плагина %1$s."
+msgstr[1] "Извините, но у вас нет прав на установку плагинов %1$s."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Обновление достпуно для: %1$s."
+msgstr[1] "Обновление достпуно для плагинов: %1$s."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Извините, но у вас нет прав доступа для обновления %1$s плагина."
+msgstr[1] "Извините, но у вас нет прав доступа для обновления %1$s плагинов."
+
+# @ vh
+#: functions/tgm-activation/class-tgm-plugin-activation.php:350
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Извините, но у вас нет прав доступа для активации %1$s плагина."
+msgstr[1] "Извините, но у вас нет прав доступа для активации %1$s плагинов."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Плагин %1$s уже активирован."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:375
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован, пожалуйста обновите его до версии %s."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:378
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста обратитесь за помощью к администратору."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:496
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для интеграции плагина с темой обновите его."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:497
+msgid "Update Required"
+msgstr "Обновить обязательные"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:614
+msgid "Set the parent_slug config variable instead."
+msgstr "Установите переменную parent_slug в значение вместо."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:813
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3532
+msgid "Return to the Dashboard"
+msgstr "Вернуться на главную панель."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:928
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Устанавливаемый плагин не содержит нужную папку."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:928
+#: functions/tgm-activation/class-tgm-plugin-activation.php:932
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Обратитесь к производителю плагина для внесения изменений согласно принципам работы WordPress."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:932
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Устанавливаемый плагин содержит несколько файлов в пакете."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:1123
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2930
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:1949
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2259
+msgid "External Source"
+msgstr "Внешний источник"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2294
+msgid "Required Update not Available"
+msgstr "Обязательное обновление не доступно"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2297
+msgid "Requires Update"
+msgstr "Обязательное обновление"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2300
+msgid "Update recommended"
+msgstr "Рекомендуемые обновления"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2308
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2357
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2361
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2365
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Обновить доступный <span class=\"count\">(%s)</span>"
+msgstr[1] "Обновить доступные <span class=\"count\">(%s)</span>"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2369
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Активировать <span class=\"count\">(%s)</span>"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2462
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестный"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2470
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2478
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2490
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2514
+#, php-format
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Нет плагинов для установки, обновления или активации. <a href=\"%1$s\">Вернуться на главную панель</a>"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2536
+msgid "Version"
+msgstr "Версия"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2590
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2596
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2602
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2673
+msgid "Upgrade message from the plugin author:"
+msgstr "Обновленное сообщение автора плагина:"
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2747
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбраны плагины для установки."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2749
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбраны плагины для обновления."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2787
+msgid "No plugins are available to be updated at this time."
+msgstr "Нет доступных плагинов для обновления в настоящее время."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:2891
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбраны плагины для обновления."
+
+# @ tgmpa
+#: functions/tgm-activation/class-tgm-plugin-activation.php:3452
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновить плагин %1$s (%2$d/%3$d)"
+
+# @ default
+#: functions/visual_composer_extended.php:400
+msgid "Snaptube - Image"
+msgstr "Snaptube - Картинка"
+
+# @ default
+#: functions/visual_composer_extended.php:411
+msgid "Snaptube - Top meta"
+msgstr "Snaptube - ТОП meta"
+
+# @ default
+#: functions/visual_composer_extended.php:422
+msgid "Snaptube - Bottom"
+msgstr "Snaptube - Подвал"
+
+# @ vh
+#: functions.php:564
+msgid "Your browser does not support the video tag."
+msgstr "Ваш браузер не поддерживает видео тег."
+
+# @ vh
+#: functions.php:797 functions.php:812 functions.php:850
+msgid "Permalink to "
+msgstr "Постоянная ссылка на "
+
+# @ vh
+#: functions.php:1048 functions.php:1296
+msgid "You like it!"
+msgstr "Вам нравится!"
+
+# @ vh
+#: functions.php:1049
+msgid "Show more"
+msgstr "Подробнее"
+
+# @ vh
+#: functions.php:1050
+msgid "Show less"
+msgstr "Скрыть"
+
+# @ vh
+#: functions.php:2649
+msgid "Wordpress Video Gallery plugin now requires YouTube API and it seems that you haven't set it up, head to our <a href=\"http://documentation.cohhe.com/snaptube/knowledgebase/youtube-api/\">documentation</a>."
+msgstr "Wordpress Video Gallery plugin требует установку YouTube API. Подробнее <a href=\"http://documentation.cohhe.com/snaptube/knowledgebase/youtube-api/\">здесь</a>."
+
+# @ vh
+#: content-single.php:39 functions/widgets/recent-posts-plus.php:168
+#: functions.php:607
+msgid "ago"
+msgstr " "
+
+# @ vh
+#: comments.php:68
+msgid "Post Comment"
+msgstr "Комментарий поста"
+
+# @ vh
+#: comments.php:69
+msgid "Your email addres will not be published. All fields are required."
+msgstr "Заполните все обязательные поля."

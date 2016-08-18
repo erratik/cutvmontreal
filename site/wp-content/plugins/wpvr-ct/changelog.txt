@@ -1,0 +1,14 @@
+
+--- v1.5 --- 01/04/2016 ---
+- Adapted to the new version of WPVR Video Widgets.
+- Corrected some minor bugs.
+------------------------- 
+
+--- v1.4 --- 05/03/2016 ---
+- Corrected add terms bug.
+- Removed source folders from available taxonomies.
+------------------------- 
+
+--- v1.0 --- 20/05/2015 ---
+- Initial Release.
+------------------------- 
