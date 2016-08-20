@@ -7,3 +7,4 @@
 /.idea/*git rm --cached .
 /site/wp-content/uploads/
 /site/wp-content/plugins/cutv-plugin/node_modules/
+/site/wp-content/plugins/wpvr/tmp/

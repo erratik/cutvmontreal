@@ -1,0 +1,3 @@
+[submodule "site/wp-content/plugins/cutv-api"]
+	path = site/wp-content/plugins/cutv-api
+	url = https://github.com/erratik/cutv-api.git
