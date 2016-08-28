@@ -494,6 +494,9 @@
 		//echo json_encode( $return );
 		return FALSE;
 	}
+//
+	wp_localize_script( 'cutv-api', 'wpApiSettings', array( 'root' => esc_url_raw( rest_url() ), 'nonce' => wp_create_nonce( 'wp_rest' ) ) );
+	wp_enqueue_script( 'cutv-api' );
 
 ?>
 

@@ -47,7 +47,7 @@ if ( LAYOUT == 'sidebar-no' ) {
 						if ( have_posts() ) {
 							while ( have_posts() ) {
 								the_post();
-								get_template_part( 'content', 'single' ); 
+								get_template_part( 'content', 'single' );
 								if ( get_post_type( $post ) == 'post' ) { ?>
 									<div class="clearfix"></div>
 									<div class="comments_container vc_col-sm-12">

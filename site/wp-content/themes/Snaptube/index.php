@@ -27,9 +27,9 @@
 									<h1><?php _e( 'News', 'vh' ); ?></h1>
 								</div>
 								<div class="main-inner index">
-									<?php 
+									<?php
 										get_template_part( 'loop', get_post_format() );
-									 ?>								
+									 ?>
 								</div>
 							</div>
 						</div>
